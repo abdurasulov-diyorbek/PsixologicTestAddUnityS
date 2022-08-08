@@ -1,0 +1,320 @@
+<resources>
+    <!-- AdMob ad unit id -->
+    <string name="ad_banner_footer">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+
+
+
+    <string name="ha_albatta">Ha</string>
+    <string name="yoqq">Yo\'q</string>
+    <string name="tayyormisiz">Testni boshlaysizmi?</string>
+    <string name="app_name">Siz kimsiz? - Inson psixologiyasi</string>
+    <string name="app_name_icon">Inson psixologiyasi</string>
+    <string name="countryflag">countryFlag</string>
+    <string name="countrynextimg">countryNextImg</string>
+    <string name="capital_img">capital_img</string>
+    <string name="capitalnextimg">capitalnextimg</string>
+    <string name="search_title">search_title</string>
+    <string name="location_img">location_img</string>
+    <string name="map_img">map_img</string>
+    <string name="splashimage">splashimage</string>
+    <string name="q">Q</string>
+    <string name="_20">/10</string>
+    <string name="laucherimg">laucherImg</string>
+    <string name="emotion">emotion</string>
+    <string name="quiz">quiz</string>
+    <string name="quiz_result">Quiz Result</string>
+    <string name="market_link">https://play.google.com/store/apps/details?id=com.siz_kimsiz.inson_psixologiyasi</string>
+    <string name="tavsiya_qiling">Yaqinlaringizga tavsiya qiling!</string>
+    <string name="tavsiya_qilaman">Tavsiya qilaman</string>
+    <string name="keyinroq">Keyinroq </string>
+
+    <string name="quiz_prompt">This is question text</string>
+    <string name="next_question">Keyingi savol</string>
+    <string name="empty_result">No data!</string>
+    <string name="ready_prompt">Are You Ready?</string>
+    <string name="score_card">Score Card</string>
+    <string name="score">Score</string>
+    <string name="wrong">Noto\'g\'ri</string>
+    <string name="skipped">O\'tkazib yuborilgan</string>
+    <string name="share_prompt">Natijani do\'stlaringizga ulashing!</string>
+    <string name="share_now">Ulashish</string>
+    <string name="sharing_text" formatted="false">My Score is %d. Find Yours- </string>
+    <string name="play_again">Boshqatdan</string>
+    <string name="your_ans">Your Ans:</string>
+    <string name="correct_ans">Correct Ans:</string>
+
+    <string name="main_page">Bosh sahifa</string>
+
+    <string name="greeting_text1">Oops!! Your score is not very good!! You need to study more.</string>
+    <string name="greeting_text2">Not bad!! Keep learning and make yourself better.</string>
+    <string name="greeting_text3">Excellent!! You are the boss!!</string>
+
+
+
+
+    <!--WS apps-->
+
+    <!-- Names -->
+    <string-array name="ws_app_names">
+        <item>Hammabop kanal</item>
+
+        <item>ПДД Узбекистана </item>
+        <item>Chorraha	</item>
+        <item>Audio ertaklar 1-qism	</item>
+        <item>Audio ertaklar 2-qism	</item>
+        <item>Audio ertaklar 3-qism	</item>
+        <item>Audio ertaklar 4-qism	</item>
+        <item>Alla Qo\'shig\'i	</item>
+        <item>Bilimdon Bolajon	</item>
+        <item>Ingliz tili darslari	</item>
+        <item>Ingliz tili Audio Dialog	</item>
+        <item>Rus tili Audio Dialog	</item>
+
+
+        <item>Tush ta\'biri	</item>
+        <item>Audio Monolog	</item>
+        <item>Chet elda ishlash	</item>
+        <item>Internetda 100$ pul topishning 99 usuli	</item>
+        <item>Munajjim	</item>
+        <item>Test Imtihon	</item>
+        <item>Topishmoqlar	</item>
+
+        <item>Sirli Sandiq</item>
+        <item>Ismlar kitobi	</item>
+        <item>Tilak va tabriklar	</item>
+        <item>Umar Xayyom ruboiylari	</item>
+        <item>Ahad Qayum she\'rlar	</item>
+        <item>Muhammad Yusuf she\'rlari	</item>
+        <item>Abdulla Oripov she\'rlari	</item>
+        <item>Erkin Vohidov she\'rlari	</item>
+        <item>AudioErtaklar	</item>
+        <item>Ertaklar	</item>
+        <item>O\'zbek xalq ertaklari	</item>
+        <item>Rus xalq ertaklari	</item>
+        <item>Aloviddin va uning sehrli chirog\'i	</item>
+        <item>Ali bobo va qirq qaroqchi 	</item>
+        <item>Hans Kristian Andersen Ertaklari	</item>
+        <item>Og\'abek Sobirov qo\'shiqlari	</item>
+        <item>Daftar Hoshiyasidagi Bitiklar 	</item>
+        <item>Kun Hikmati	</item>
+        <item>Afandi latifalari	</item>
+        <item>Latifalar	</item>
+        <item>Mumtoz navolar	</item>
+        <item>Sevgi she\'rlari	</item>
+        <item>Dunyo mamlakatlari	</item>
+        <item>Qadimgi dunyoning 7 mo\'jizasi	</item>
+        <item>Ozodbek Nazarbekov	</item>
+        <item>Qizqarli faktlar	</item>
+    </string-array>
+
+    <!-- Pictures -->
+    <array name="ws_profile_pics">
+        <item>@drawable/ws_hammabopp</item>
+        <item>@drawable/ws_pdduzbekistan_rus</item>
+        <item>@drawable/ws_chorraha</item>
+        <item>@drawable/ws_audioertaklar_qism_bir</item>
+        <item>@drawable/ws_audioertaklar_qism_ikki</item>
+        <item>@drawable/ws_audioertaklar_qism_uch</item>
+        <item>@drawable/ws_audioertaklar_qism_tort	</item>
+        <item>@drawable/ws_allaqoshiqlari</item>
+        <item>@drawable/ws_bilimdonbolajon</item>
+        <item>@drawable/ws_ingliztili</item>
+        <item>@drawable/ws_ingliztilidialog	</item>
+        <item>@drawable/ws_rustilidialog</item>
+
+
+
+
+        <item>@drawable/ws_tushtabiri</item>
+        <item>@drawable/ws_audiomonolog</item>
+        <item>@drawable/ws_cheteldaishlash</item>
+        <item>@drawable/ws_internetdapulishlash</item>
+        <item>@drawable/ws_munajjim</item>
+        <item>@drawable/ws_testimtihon</item>
+        <item>@drawable/ws_topishmoqlar</item>
+
+        <item>@drawable/ws_sirlisandiq</item>
+        <item>@drawable/ws_ismlarkitobi</item>
+        <item>@drawable/ws_tilaklar</item>
+        <item>@drawable/ws_umarxayyom</item>
+        <item>@drawable/ws_ahadqayum</item>
+        <item>@drawable/ws_muhammadyusuf</item>
+        <item>@drawable/ws_abdullaoripov</item>
+        <item>@drawable/ws_erkinvohidov</item>
+        <item>@drawable/ws_audioertaklar</item>
+        <item>@drawable/ws_ertaklar</item>
+        <item>@drawable/ws_ozbekxalqertaklari</item>
+        <item>@drawable/ws_rusxalqertaklari</item>
+        <item>@drawable/ws_aloviddin</item>
+        <item>@drawable/ws_alibobo</item>
+        <item>@drawable/ws_andersen</item>
+        <item>@drawable/ws_ogabek</item>
+        <item>@drawable/ws_daftar</item>
+        <item>@drawable/ws_kunhikmati</item>
+        <item>@drawable/ws_afandilatifalari</item>
+        <item>@drawable/ws_latifalar</item>
+        <item>@drawable/ws_mumtoznavolar</item>
+        <item>@drawable/ws_stixi</item>
+        <item>@drawable/ws_dunyo</item>
+        <item>@drawable/ws_yettimujiza</item>
+        <item>@drawable/ws_ozodbek</item>
+        <item>@drawable/ws_qiziqarlifaktlar</item>
+    </array>
+
+    <!-- Status -->
+    <string-array name="ws_statues">
+        <item>Hamma uchun Qiziqarli ma\'lumotlar, sovrinli o\'yinlar kanaliga qo\'shiling!	</item>
+        <item>Правила Дорожого Движение Узбекистана и Штрафы (на русском языке)	</item>
+        <item>Yo\'l harakati qoidalari, yo\'l belgilari, jarimalar, yangiliklar	</item>
+        <item>Internetsiz, offlayn Audio ertaklar	</item>
+        <item>Internetsiz, offlayn Audio ertaklar</item>
+        <item>Internetsiz, offlayn Audio ertaklar</item>
+        <item>Internetsiz, offlayn Audio ertaklar</item>
+        <item>Sevimli o\'zbek san\'atkorlaridan Alla Qo\'shiqlari</item>
+        <item>Bolalar uchun Rasmli Ovozli o\'yin 	</item>
+        <item>Ingliz tili grammatikasi bo\'yicha darslar	</item>
+        <item>Ingliz tilini eshitib o\'rganish. Matnli  Audio Dialoglar.	</item>
+        <item>Rus tilini eshitib o\'rganish. Matnli  Audio Dialoglar.	</item>
+       <item>Tushlarning eng mukammal ta\'birlari	</item>
+        <item>Audio monolog, she\'rlar va hikoyalar	</item>
+        <item>Chet elda mehnat qilish va pul topishda zarur tartib qoidalar va qonunlar	</item>
+        <item>Internetda pul ishlash yo\'llari zarur tavsiyalar va yo\'riqnomalar  	</item>
+        <item>Munajjimlar bashorati, Bashoratlar, Burjlar tavsifi, Yoshni hisoblash, Sevimli rang , Juftlik mosligi	</item>
+        <item>Oliy ta\'lim Muassasalariga kirish chun Ona tili va adabiyoti, Biologiya , Ingliz tili, Tarix fanlaridan test savollari 	</item>
+        <item>Turli mavzulardagi topishmoqlar o\'yini	</item>
+        <item>Sirli Sandiq Savodxonlik Saroyi Sarxadidagi - Sara Sovringa Sazovor Sanaling!</item>
+        <item>O\'zbek ismlari ma\'nolarining eng keng to\'plami 	</item>
+        <item>Bayram tabriklari va dil ishorlari	</item>
+        <item>Eng keng ruboiylar to\'plami	</item>
+        <item>Eng mashhur she\'rlar jamlanmasi	</item>
+        <item>Sevimli shoirimizning unutilmas she\'rlari 	</item>
+        <item>Buyuk shoirning durdona she\'rlari to\'plami	</item>
+        <item>Sevimli shoirimizning sermazmun she\'rlari to\'plami	</item>
+        <item>Bolajonlar uchun ertaklar audio formatda	</item>
+        <item>O\'zbek va jahon xalqlari ertaklari	</item>
+        <item>Eng sevimli o\'zbek ertaklari	</item>
+        <item>Siz sevgan rus xalq ertaklari	</item>
+        <item>Ming bir kecha ertaklari turkumidan dunyoga mashhur Aloviddin 	</item>
+        <item>Ming bir kecha ertaklari turkumiga kiruvchi ertakling to\'liq ko\'rinishi	</item>
+        <item>Dunyoga mashhur ertaklar o\'zbek tilida 	</item>
+        <item>Xorazm bulbulidan diltortar qo\'shiqlar	</item>
+        <item>Sevimli adibimiz O\'tkir Hoshimovning durdona asari 	</item>
+        <item>Buyuk donishmandlarning sermazmun so\'zlari	</item>
+        <item>Siz bilgan Afandining ajoyib latifalari to\'plami 	</item>
+        <item>Qiziqarli latifalar	</item>
+        <item>O\'zbek klassik va mumtoz navolari	</item>
+        <item>Sevgi va muhabbat mavzusidagi she\'rlar to\'plami	</item>
+        <item>Mamlakatlar va ularning poytaxt shaharlari 	</item>
+        <item>Yetti mo\'jiza haqida batafsil ma\'lumotlar	</item>
+        <item>Sevimli san\'atkornimizning qo\'shiqlari to\'plami	</item>
+        <item>Ishonish qiyin lekin fakt ma\'lumotlar 	</item>
+    </string-array>
+
+    <!-- contact type -->
+    <string-array name="ws_contactType">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <!-- contact type -->
+    <string-array name="ws_links">
+        <item>https://t.me/joinchat/AAAAAEh2ybZU47DlaDtixQ</item>
+        <item>https://play.google.com/store/apps/details?id=com.pdduzbekistana_rus</item>
+        <item>https://play.google.com/store/apps/details?id=com.chorraha.uz	</item>
+        <item>https://play.google.com/store/apps/details?id=webspektr.audio_ertaklar.qism_bir</item>
+        <item>https://play.google.com/store/apps/details?id=webspektr.audio_ertaklar.qism_ikki</item>
+        <item>https://play.google.com/store/apps/details?id=webspektr.audio_ertaklar.qism_uch</item>
+        <item>https://play.google.com/store/apps/details?id=webspektr.audio_ertaklar.qism_tort</item>
+        <item>https://play.google.com/store/apps/details?id=webspektr.alla.qoshiqlari</item>
+        <item>https://play.google.com/store/apps/details?id=com.bilimdon.bolajon</item>
+        <item>https://play.google.com/store/apps/details?id=com.ingliztili</item>
+        <item>https://play.google.com/store/apps/details?id=webspektr.inglizcha.audio_dialog	</item>
+        <item>https://play.google.com/store/apps/details?id=webspektr.rus_tili.audio_dialog</item>
+
+        <item>https://play.google.com/store/apps/details?id=com.webspektr.tush.tabiri	</item>
+        <item>https://play.google.com/store/apps/details?id=com.audio.monolog	</item>
+        <item>https://play.google.com/store/apps/details?id=com.chet.elda.ishlash	</item>
+        <item>https://play.google.com/store/apps/details?id=example.internetdapulishlash	</item>
+        <item>https://play.google.com/store/apps/details?id=com.webspektr.munajjim	</item>
+        <item>https://play.google.com/store/apps/details?id=com.test.sinov	</item>
+        <item>https://play.google.com/store/apps/details?id=uz.topishmoqlar	</item>
+
+        <item>https://play.google.com/store/apps/details?id=webspektr.com.sirlisandiq	</item>
+        <item>https://play.google.com/store/apps/details?id=com.ismlar.kitobi	</item>
+        <item>https://play.google.com/store/apps/details?id=com.tilaklar.tabriklar	</item>
+        <item>https://play.google.com/store/apps/details?id=com.umarxayyom.ruboiylar	</item>
+        <item>https://play.google.com/store/apps/details?id=com.ahad.qayum	</item>
+        <item>https://play.google.com/store/apps/details?id=com.muhammadyusuf.sherlari	</item>
+        <item>https://play.google.com/store/apps/details?id=com.abdulla.oripov	</item>
+        <item>https://play.google.com/store/apps/details?id=com.erkin.vohidov	</item>
+        <item>https://play.google.com/store/apps/details?id=com.webspektr.audioertaklar	</item>
+        <item>https://play.google.com/store/apps/details?id=com.webspektr.ertaklar	</item>
+        <item>https://play.google.com/store/apps/details?id=uz.ozbekxalertaklari	</item>
+        <item>https://play.google.com/store/apps/details?id=uz.rusxalqertaklari	</item>
+        <item>https://play.google.com/store/apps/details?id=uz.aloviddin	</item>
+        <item>https://play.google.com/store/apps/details?id=uz.alibobo	</item>
+        <item>https://play.google.com/store/apps/details?id=example.andersonertaklari	</item>
+        <item>https://play.google.com/store/apps/details?id=com.apps.ogabeksobirov	</item>
+        <item>https://play.google.com/store/apps/details?id=com.daftar.hoshiyasidagibitiklar	</item>
+        <item>https://play.google.com/store/apps/details?id=com.kun.hikmati	</item>
+        <item>https://play.google.com/store/apps/details?id=example.afandilatifalari	</item>
+        <item>https://play.google.com/store/apps/details?id=com.webspektr.latifalar	</item>
+        <item>https://play.google.com/store/apps/details?id=com.mumtoz.navolar	</item>
+        <item>https://play.google.com/store/apps/details?id=example.sevgisherlari2	</item>
+        <item>https://play.google.com/store/apps/details?id=com.webspektr.dunyo.mamlakatlari	</item>
+        <item>https://play.google.com/store/apps/details?id=com.mujiza	</item>
+        <item>https://play.google.com/store/apps/details?id=com.ozodbek.nazarbekov	</item>
+        <item>https://play.google.com/store/apps/details?id=com.qiziqarli.faktlar	</item>
+    </string-array>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="appodeal_ad_id">4ad5135fcf9d2791fd34039b0819ed1abf39f05392b425a6</string>
+
+
+
+</resources>

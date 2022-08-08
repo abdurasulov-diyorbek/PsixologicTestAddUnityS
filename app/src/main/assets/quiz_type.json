@@ -1,0 +1,10 @@
+[
+   {
+      "quiz_type_id": "1",
+      "quiz_type_interface": "res/activity_quiz.xml"
+   },
+   {
+      "quiz_type_id": "2",
+      "quiz_type_interface": "res/activity_quiz_image.xml"
+   }
+]

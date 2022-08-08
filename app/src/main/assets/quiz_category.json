@@ -1,0 +1,42 @@
+{
+
+  "table":[
+    {
+      "category_name" : "Shaxsiy xarakter",
+      "category_image": "drawable/shaxsiy_xarakter"
+    },
+    {
+      "category_name" : "Sevgi",
+      "category_image": "drawable/sevgi"
+    },
+    {
+      "category_name" : "Ish va karera",
+      "category_image": "drawable/psixo_ish"
+    },
+    {
+      "category_name" : "Oila",
+      "category_image": "drawable/oila"
+    },
+    {
+      "category_name" : "Farzandlar",
+      "category_image": "drawable/psixo_farzandlar"
+    },
+    {
+      "category_name" : "Juftingiz",
+      "category_image": "drawable/psixo_justingiz"
+    },
+    {
+      "category_name" : "Go'zallik",
+      "category_image": "drawable/psixo_gozallik"
+    },
+    {
+      "category_name" : "Muloqot",
+      "category_image": "drawable/psixo_muloqot"
+    },
+    {
+      "category_name" : "Intellekt",
+      "category_image": "drawable/psixo_intelekt"
+    }
+
+  ]
+}

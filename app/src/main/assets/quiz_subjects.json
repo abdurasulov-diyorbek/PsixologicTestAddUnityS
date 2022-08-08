@@ -1,0 +1,1963 @@
+{
+
+  "subject":[
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+
+      "subject_name": "Mustaqil qaror chiqara olasizmi?",
+      "subject_image": "drawable/quiz_image1_1",
+      "subject_description": "Avvaliga, bilib tursangiz ham 'bilmadim', deya yelka qisasiz. Keyin 'Siz nima desangiz shu', deya bor mas’uliyatni o‘zingizdan soqit qilasiz. 'Menga farqi yo‘q' deyishingiz esa hammasidan ham oshib tushadi. Buncha qaror qabul qilish mas’uliyatidan qochmasangiz, a? Tag‘in ba’zi-ba’zida hayotingiz, turmushingiz yohud ishingizdan nolib qo‘yasiz. Ko‘nglingizdagidek bo‘lmagani uchun noliysizda. 'Yo‘q, men aslo bundaylar toifasidan emasman', deyapsizmi? Marhamat, testimizni ishlab, mustaqil qaror chiqarishga qodirmisiz yoki yo‘q, aniqlang.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "14",
+      "score_range_1_image": "drawable/smile_11",
+      "score_range_1_text": "Jur’atsiz va ikkilanuvchisiz. Biroz qo‘rqoqligingiz ham bor. 'Hozir o‘zimcha nimadir qilsam, keyin dodimni hech kim eshitmaydi', deb o‘ylab ham oldinga qadam tashlamay turaverasiz. Shuning uchun ba’zida urinishlaringiz, fikrlaringiz inobatga olinmay qolib ketar? Avval kichik doiralarda istaklaringiz, xohishlaringizni namoyon qilishga urinib ko‘ring. Buning uchun o‘z ustingizda ishlang. Nima uchun gapirishga qo‘rqasiz o‘zi. Shu sababni topib, uni bartaraf qiling. Balkim sizni cho‘chitayotgan narsa muammomasdir. Xullas, o‘zingizga bo‘lgan ishonchni oshiring.",
+
+      "score_range_2_min": "15",
+      "score_range_2_max": "29",
+      "score_range_2_image": "drawable/smile_31",
+      "score_range_2_text": "Sizni kuchli xarakter egasi deb aytishimiz mumkin. Ishonchli do‘stligingiz, stresslarga chidamliligingiz ko‘zga ko‘ringan xususiyatlaringizdandir. Birovlarning gap-so‘zlariga, fikrlariga qaram emassiz. Shu bilan birga kezi kelganda atrofdagilar bilan bamaslahat yo‘l tutasiz. Bu xatolaringizni anglashingiz va tan olshingizdan dalolatdir. O’z tanlovlaringizni to‘g‘ri bayon qilganingiz va boshqalarning ham fikrlarini tinglashni bilganingiz uchun ham sizga kam e’tiroz bildirishadi.",
+
+      "score_range_3_min": "30",
+      "score_range_3_max": "40",
+      "score_range_3_image": "drawable/smile_21",
+      "score_range_3_text":"Siz haddan tashqari mustaqilsiz. Barcha munosabatlarda, hamma joyda o‘zingiz qaror chiqarishga o‘rganib qolgansiz. Siz nafaqat kimdir muammoni hal qilishini kutishga sabr qilolmaysiz, balkim atrfodagilarning fikrini eshitishga ham hafsala qilmaysiz. Bir o‘ylab ko‘ring: o‘zingizga shu darajada ishonasizmi? Chiqargan qaroringizning ijobiy va salbiy tomonlarini ko‘ra olasizmi? Yoki 'Meniki to‘g‘ri', deya xato aytganingizdan qaytish shunchalik qiyinmi? Mustaqillik, mustaqil qaror chiqarish, yashash mas’uliyatini bo‘yningizga olganingiz yaxshi. Biroq doim atrofdagilar bilan bemaslahat ish ko‘rishingiz to‘g‘rimas. Chegarani biling, mustaqillikni qaysarlik bilan adashtirmang.",
+
+
+
+      "score_range_4_min": "101",
+      "score_range_4_max": "150",
+      "score_range_4_image": "drawable/score_3",
+      "score_range_4_text": "",
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+
+      "subject_name": "Siz kechira olasizmi?",
+      "subject_image": "drawable/quiz_image1_2",
+      "subject_description": "Gina, jahl, xafalikni unutib, kimnidir kechira olish katta jasorat! Kimdir esa xotiralariga yopishib olsa, yana kimdir osongina kechirib ketadi. Siz-chi, tez kechira olasizmi? Qalbingizda gina saqlamaysizmi? Ushbu ruhiy test sizning nechog`li kechirimli ekanligingizni aniqlab beradi.",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_21",
+      "score_range_1_text": "Sizni xafa qilganlarni kechira olmaysiz. Qalbingizda gina saqlanadi. Har safar u haqida eshitganingizda g`azablanaverasiz. G`azabni yengishni o`rgansangiz, asabiylikdan qutulasiz.",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "24",
+      "score_range_2_image": "drawable/smile_27",
+      "score_range_2_text": "Sizni xafa qilishsa, avvaliga azob chekasiz, keyin o`sha odamga baqirib, ginalarni unutasiz. Eng muhimi, siz ginachi emassiz. Harakatlaringizga mulohazalikni qo`shangiz yanada yaxshiroq bo`lar edi.",
+
+      "score_range_3_min": "25",
+      "score_range_3_max": "31",
+      "score_range_3_image": "drawable/smile_28",
+      "score_range_3_text": "Kechirish siz uchun oson. O`ch olishni o`ylamaysiz ham. Bu albatta yaxshi, lekin bo`yningizni juda ham egib yubormang. Aks holda obro`yingizni yo`qotib qo`yasiz.",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_23",
+      "score_range_4_text": "Tashqi ko`rinishingizdan birovni kechirgandek bo`lasiz-u, qalbingizda alam, gina-kudrat baribir saqlanib qoladi. Hamma sizni olijanob deb o`ylaydi. Aslida esa, unchalik 'oppoq' emassiz. Har qanday vaziyatda ham tilyog`lamalik qilmay, tilingiz va dilingizni bir qilsangiz haqiqiy obro`-e`tiborga sazovor bo`lasiz.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+
+      "subject_name": "Siz qanday insonsiz?",
+      "subject_image": "drawable/quiz_image1_3",
+      "subject_description": "Har birimiz taqdirning o'nqir-cho'nqir so'qmoqlari uzra ketib borarkanmiz, turlicha fikrlaymiz, faoliyat yuritamiz, o'ylaymiz. Kimdir 'Ha endi taqdirim shu ekan' deydi-yu, boshiga tushayotgan turfa qiyinchiliklar domida yashayveradi. Hammadan ilg'orroq, tezkorroq bo'lishga urinmaydi ham. Shundaylar borki, u taqdirini ma'lum darajada o'zgartirish harakatida bo'ladi. Boshqacharoq aytganda, oqimga qarshi borishga urinadi. Bu yo'lda hech bir azobdan, ko'ngilsizliklardan qaytmaydi. Va barchani ajablantirib, o'z niyatiga yetadi ham. Xo'sh, siz-chi? Qanday insonsiz? Oqimga qarshi bora olasizmi?",
+
+      "score_range_1_min": "1",
+      "score_range_1_max": "45",
+      "score_range_1_image": "drawable/smile_17",
+      "score_range_1_text": "Hayotda oqimga qarab harakatlanishga odatlangansiz. Muvaffaqiyatsizlik, omadsizliklarga ro'baro' bo'lsangiz, o'zingizni emas, boshqalarni ayblaysiz. Sizning nazaringizda mustaqil bo'lish, maqsadga o'z kuchi bilan erishish umuman mumkin emasdek tuyuladi. Lekin atrofdagilar bilan do'stona munosabatda bo'la bilasiz. Har bir ishda ularga suyanib, muammolarni ahillikda hal etasiz",
+
+      "score_range_2_min": "46",
+      "score_range_2_max": "99",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Taqdiringizni o'zingiz ma'lum ma'noda belgilay olasiz. Lekin ba'zida shunday holatga tushib qolasizki, yoningizdagilardan ko'mak so'rashga majbur bo'lasiz. Hayotdagi qiyinchiliklarga real baho bera olasiz. Har bir ishni aql bilan hal etasiz. Boshqalar bilan ahillikda, murosa bilan munosabat yuritasiz",
+
+      "score_range_3_min": "100",
+      "score_range_3_max": "150",
+      "score_range_3_image": "drawable/smile_34",
+      "score_range_3_text": "Siz qanday ahvolda qolmang, baribir taqdirga tan bermaysiz. Vaziyatni o'zgartirishga, qandaydir yo'llar bilan og'ir ahvoldan chiqib ketishga intilasiz. Buning uchun sizda iroda ham, kuch va sabr-toqat ham yetarli. Oldingizga aniq bir maqsadni qo'yasiz-u, shu yo'ldan mardona keta boshlaysiz. Shu sababli atrofingizdagilar ham sizga qattiq ishongan holda og'ir kunlarda ko'mak so'rashga botina olishadi",
+
+
+
+      "score_range_4_min": "151",
+      "score_range_4_max": "160",
+      "score_range_4_image": "drawable/smile_12",
+      "score_range_4_text": "",
+
+      "score_range_5_min": "161",
+      "score_range_5_max": "170",
+      "score_range_5_image": "drawable/score_11",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Ichki sezgi",
+      "subject_image": "drawable/quiz_image1_4",
+      "subject_description": "Odamning ichki sezgisi, aniqrog'i, qaysidir voqea-hodisani oldindan payqay bilishi ko'p hollarda unga yordam berishi mumkin. Tasavvur qiling, falokatni sal avval qalban his etdingiz-u, oldini olish harakatiga tushdingiz. Xullas, bu qobiliyat har birimiz uchun juda zarur. Qani, ushbu test yordamida o'z ichki sezgingizning qay darajada ekanini tekshirib ko'ring.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "1",
+      "score_range_1_image": "drawable/smile_26",
+      "score_range_1_text": "Sizda ichki sezgi degan narsaning o'zi yo'q. Lekin hali kech emas. Hammasini tuzatsa bo'ladi.",
+
+      "score_range_2_min": "2",
+      "score_range_2_max": "9",
+      "score_range_2_image": "drawable/smile_28",
+      "score_range_2_text": "Sizning ham ichki sezgingiz kuchli. Ammo undan yuz foiz foydalana bilmaysiz. Ko'pincha hayotiy tajribangizga ishonib qolasiz.",
+
+      "score_range_3_min": "10",
+      "score_range_3_max": "20",
+      "score_range_3_image": "drawable/smile_24",
+      "score_range_3_text": "Ichki sezgingiz juda kuchli ekan. Bu sezgiga suyanishdan ham qo'rqib o'tirmaysiz. Unga qattiq ishonasiz.",
+
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_11",
+      "score_range_4_text": "a",
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_12",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Odamlarga ishonasizmi?",
+      "subject_image": "drawable/quiz_image1_5",
+      "subject_description": "Suhbatdoshga bo‘lgan ishonchsizlik odamning so‘zlaridan, ko‘z qarashlaridan sezilib turadi. Buni payqagan suhbatdosh ham darhol muomalani o‘zgartirishi mumkin. Xo‘sh, natija-chi? Oqibatda o‘rtadagi munosabatlarga putur yetadi. Keling, siz ham ushbu test yordamida boshqalarga nisbatan ishonchingiz qay darajada ekanini tekshirib ko‘ring",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "6",
+      "score_range_1_image": "drawable/smile_38",
+      "score_range_1_text": "Siz ishonuvchan, ochiq va rashk nimaligini bilmaydigan odamsiz. Odamlar bilan tez til topishib keta bilasiz. Ko‘ngilsizliklarni, xafagarchiliklarni tez unutasiz",
+
+      "score_range_2_min": "7",
+      "score_range_2_max": "14",
+      "score_range_2_image": "drawable/smile_13",
+      "score_range_2_text": "Har doim ham boshqalarga ishonib ketavermaysiz. Agar yolg‘onchiligini bilib qolsangiz, o‘sha odam bilan hamkorlik qilishdan darhol bosh tortasiz. Gohida uzoq vaqt kek saqlab yuradigan odatingiz ham yo‘q emas",
+
+      "score_range_3_min": "15",
+      "score_range_3_max": "20",
+      "score_range_3_image": "drawable/smile_15",
+      "score_range_3_text": "Siz odam faqat o‘ziga ishonishi lozim deb hisoblaysiz. Faqat yolg‘iz ishlashni, dam olishni ma’qul ko‘rasiz. Kimdir sizga yoqmasa, beo‘xshov harakatlari bilan jahlingizni chiqarib qo‘ysa, uzoq vaqt ko‘z oldingizdan ketkaza olmay qiynalasiz. Sizni boshqalarning manfaatlari, qiziqishlari, orzu-umidlari va armonlari umuman qiziqtirmaydi. Faqat o‘zingiz haqingizda o‘ylaysiz, qayg‘urasiz va shu hayotni bir umrga o‘zingiz uchun shior qilib olgansiz.",
+
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_",
+      "score_range_4_text": "",
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Siz g'iybatchimisiz?",
+      "subject_image": "drawable/quiz_image1_6",
+      "subject_description": "Kunda-shunda do'stlar, mahalladagi tanishlar, qarindosh urug`lar bilan turli mavzularda suhbatlashamiz. Ammo bu suhbatlar bilib bilmay kimlarnidir muhokama qilishimiz mumkin. Shu bilan kishi g`iybatchi bo`lib qoladimi? G`iybatga qanchalik moyil ekaningizni bilish uchun quyidagi savollarimizga javob bering.",
+
+      "score_range_1_min": "8",
+      "score_range_1_max": "12",
+      "score_range_1_image": "drawable/smile_15",
+      "score_range_1_text": "Turli voqealar boshingizda g`ovlab ketganidan insonlar hayoti haqida butun boshli roman yozsangiz bo`ladi. Uzoqroq tanishingizning qo`shnisining kelini haqidagi ma`lumotlar ham e`tiboringizdan chetda qolmaydi. Aksiga olgandek, siz qiziqarli suhbatdoshsiz, hikoyalaringizni eshitish ham  maroqli. Shu qobiliyatingizni to`g`ri yo`lda sarflashga nima deysiz? Sir saqlay olmaganligingiz bois ko`p dakki yegansiz, bundan tashqari vaqt va quvvatingizni umuman keraksiz narsalarga sarflab yuborayapsiz. Buning o`rniga ishda yoki oilada qo`l kelishi mumkin bo`lgan biror ilm egallashingiz mumkin. Aks holda birovlarning hayotidagi yangiliklar ortidan quvib, umringizni havoga sarflab yuborasiz.",
+
+      "score_range_2_min": "13",
+      "score_range_2_max": "19",
+      "score_range_2_image": "drawable/smile_35",
+      "score_range_2_text": "Kayfiyat odamisiz. Zerikib qolsangiz o`zgalarning hayotiga qiziqish paydo bo`lishi mumkin. Kim haqida, yoki nima haqida g`iybatlashish siz uchun unchalik ham muhim emas, shunchaki o`zingizni biror mashg`ulot bilan chalg`itish uchungina bu ishni qilasiz. Band bo`lganingizda g`iybatlarga e`tibor ham bermasdingiz. Zerikish, bekorchilik, mana barining boshi qayerda. Demak, bu illatdan halos bo`lish uchun doim band bo`ling.",
+
+      "score_range_3_min": "20",
+      "score_range_3_max": "24",
+      "score_range_3_image": "drawable/smile_31",
+      "score_range_3_text": "G`iybatchilik sizga yot illat. O`zingizga kerak ma`lumotni asosiy manbaadan olib, boshqalari bilan hisoblashib ham o`tirmaysiz. Haqiqiy sirdoshsiz, sizga o`z sirini ishongan insonni xafa qilishdan ehtiyot bo`lasiz. Biroq ba`zida muhokama qilinayotgan mavzular ahamiyatini bo`rttirib ko`rsatishingiz mumkin. Barini yurakka yaqin olishga moyilligingiz bor.",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Siz rahmdilmisiz?",
+      "subject_image": "drawable/quiz_image1_7",
+      "subject_description": "Har hil odamlar bo’lishadi… Ayrimlar birinchi uchragan odamdan hech narsani ayamasa, boshqalardan qishda qor so’rab bo’lmaydi. Siz qaysi guruh insonlarga kirasiz?Atrofdagilar bilar har doim ham hushmuomalada bo’la olasizmi? Bu savollarga quyidagi testni yechib, javob topasiz deb o’ylaymiz.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "4",
+      "score_range_1_image": "drawable/smile_21",
+      "score_range_1_text": "Siz bilan suhbat hatto eng yaqin kishilaringiz uchun ham qiyin.Do’stlaringiz ko’payishi uchun odamlar bilan yaxshi munosabatda bo’ling.",
+
+      "score_range_2_min": "5",
+      "score_range_2_max": "8",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Hammaga nisbatan ham rahmdil emassiz.Ayrimlar uchun hamma narsaga tayyorsiz, boshqalar ya’ni siz yoqtirmaydiganlar yaxshisi sizdan uzoqroq yurgani ma’qul. Bizningcha odamlarni hafa qilib qo’ymaslik uchun hamma bilan birday muomala qilganingiz ma’qul.",
+
+      "score_range_3_min": "8",
+      "score_range_3_max": "15",
+      "score_range_3_image": "drawable/smile_36",
+      "score_range_3_text": "Siz hushmuomalali, atrofdagilarga yoqadigan, odamlar bilan kelishib ketadigan insonsiz. Do’stlaringiz ko’p bo’lsa kerak.Lekin ogohlantirib qo’yaylik:siz hamma bilan kelishib ketish shart emas deb o’ylaysiz",
+
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_12",
+      "score_range_4_text": "e",
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_12",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Sizni maftun qilish osonmi?",
+      "subject_image": "drawable/quiz_image1_8",
+      "subject_description": "Ushbu test ayollarga mo'ljallangan, lekin gap muhabbat haqida emas. Es-xushungizni boshqa narsalar ham olib qo'yishi, birovning xohishiga yoki istagiga tez ko'nishingiz mumkinmi? Boshqa ayollar sizda bo'lmagan yoki siznikidan yaxshiroq bo'lgan biror narsani ko'rsangiz, imkoniyatingizdan qat'iy nazar o'sha narsa sizda bo'lishiga ham urinasizmi? Buni quyidagi test savollariga javob berib, bilib olishingiz mumkin.",
+
+      "score_range_1_min": "12",
+      "score_range_1_max": "19",
+      "score_range_1_image": "drawable/smile_37",
+      "score_range_1_text": "Siz nima xohlashingizni va nimani xohlamasligingizni juda yaxshi bilasiz. Siz qat'iy tamoyil qarashlarga egasiz va ulardan chekinmaysiz. Bu bir tomondan yaxshi, chunki xatoga yo'l qo'ymaysiz. Boshqa tomondan esa bunday narsalarga jiddiy qarab, ularni qattiqqo'llik bilan baholab, yashash og'ir. Buning natijasida siz yoqimli, kutilmagan sovg'alardan, ya'ni hayot quvonchlaridan mahrum bo'lib qolasiz. Xavf haqida o'ylamay, hamma narsaga havas bilan qarang",
+
+      "score_range_2_min": "20",
+      "score_range_2_max": "28",
+      "score_range_2_image": "drawable/smile_28",
+      "score_range_2_text": "Ba'zan indamas odamdek tasavvur uyg'otasiz, keyin esa kutilmagan kuchli hissiyotlarni namoyon qilasiz. Agar aql va hissiyotdan birini tanlash kerak bo'lsa, doim aql yengib chiqadi. Hech qachon es-hushingizni yo'qotar darajada hayajonlanmaysiz. Siz bilan munosabat o'rnatmoqchi bo'lgan odam sabrli bo'lishi kerak. Sizni faqat aql orqali ishontirish mumkin. Vaqtinchalik tanishlarni yoqtirmaysiz, ularga e'tibor bermaysiz. Haqiqiy buyuk do'stlikni va muhabbatni qadrlaysiz.",
+
+      "score_range_3_min": "29",
+      "score_range_3_max": "36",
+      "score_range_3_image": "drawable/smile_29",
+      "score_range_3_text": "Hayotning barcha huzur-halovatlaridan foydalanib, unga o'yindek munosabatda bo'lishni yaxshi ko'rasiz. Agar kimdur bu o'yinga qo'shilmasa, undan hafa bo'lasiz. Siz hamma uchun yoqimli, iltifotli va samimiysiz, biroq o'z do'stlaringizdan ular xohlagandan tezroq ajralasiz. O'ta xissiyotlisiz - bir qarasa yettinchi osmondasiz, keyin esa birdan noxushliklardan chuqur g'amga botasiz. Siz voqeliklarga to'g'ri baho berishni o'rganishingiz kerak, aks holda, yo'qotilgan baxtni topishga qiynalasiz.",
+
+
+
+      "score_range_4_min": "48",
+      "score_range_4_max": "60",
+      "score_range_4_image": "drawable/smile_",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Kimga yordam berasiz?",
+      "subject_image": "drawable/quiz_image1_9",
+      "subject_description": "Inson tanlovi u haqida ko‘p narsalar aytishi mumkin (ayniqsa qaror darhol qilinishi kerak bo‘lgan qiyin vaziyatlarda).\n Biz sizga shaxs haqida barcha haqiqatni aytib beradigan qisqa testdan o‘tishga taklif etamiz. Qilish kerak bo‘lgan narsa – boshqalardan ko‘ra kim ko‘proq yordamga muhtoj ekanligini tanlashdir.",
+
+      "score_range_1_min": "9",
+      "score_range_1_max": "18",
+      "score_range_1_image": "drawable/smile_24",
+      "score_range_1_text": "Siz yaxshi tarbiya olgan odobli insonsiz va o‘tmishdagi an’analarni yuqori darajada hurmat qilasiz. Qarorlarni doimo oqilona qabul qilasiz, hech qachon shoshma-shosharlik bilan harakat qilmaysiz. Sizga bu dunyoning adolatsizligiga chiday olmaysiz. Sizga ko‘pincha boshqalar qochib qilmay yurgan ishlarni topshiradi.",
+
+      "score_range_2_min": "19",
+      "score_range_2_max": "28",
+      "score_range_2_image": "drawable/smile_18",
+      "score_range_2_text": "Tanlovingiz sizda juda nozik yurak borligini bildiradi. Siz tez-tez shunday gaplar eshitgansiz: 'Ustingga chiqib olishlariga yo‘l qo‘yma' yoki 'Pushta ko‘zoynakni yech'. Do‘stlaringiz yoningizda o‘zlarini qulay va xavfsiz his qilishadi, chunki siz hech qachon ularni qiyin vaziyatda tashlab ketmaysiz",
+
+      "score_range_3_min": "29",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_34",
+      "score_range_3_text": "Hayot va quvnoq yig‘inlarni sevuvchi insonsiz. Siz hovliqishni yoqtirmaydigan va hech qachon keragidan ortiq qilmaysiz. Siz tabiatan yetakchisiz va kuchli shaxslarni magnitlangan kabi jalb qilasiz.",
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "49",
+      "score_range_4_image": "drawable/smile_39",
+      "score_range_4_text": "Siz tabiatan oson va optimist insonsiz. Siz dunyoni yorqin ranglarda ko‘ra oladigan va dunyoning nomukammalliklarga e’tibor qaratmaysiz. Siz insonlar bilan tez til topishasiz va ko‘p ishni yoqtirmaysiz. Siz sarguzashtni sevuvchi va to‘rt devor ichida turolmaydigan insonsiz",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Mushtlar orqali Xarakterni bilish",
+      "subject_image": "drawable/quiz_image1_10",
+      "subject_description": "Beixtiyor qo‘llaringizni mushtlang va xarakteringiz qanday turga mansubligini aniqlang!",
+
+      "score_range_1_min": "8",
+      "score_range_1_max": "18",
+      "score_range_1_image": "drawable/smile_15",
+      "score_range_1_text": "Bu turdagi odamlar tortinchoq bo‘lsalarda ko‘p hollarda o‘ta aqlli insonlar bo‘lishadi. Ular ko‘p narsalarni biladilar, turli-tuman qiziqarli ma’lumotlarga boy bo‘ladilar, bir so‘z bilan aytganda “tirik ensiklopediya“dirlar.Bunday insonlar bir kasbda to‘xtab qolmaydilar. Mavhum bo‘lgan narsalarni aniqlashga bo‘lgan kuchli istak sababyangidan yangi bilimlarni o‘zlashtirish, dunyoni kengroq anglashga chanqoqdirlar va ularning tez o‘zlashtirib olish qobiliyatlari bunga to‘liq imkon beradi. Demak bu turdagi insonlarni ixtirolar, yangicha qarashlar, g‘oyalar yaratuvchisi deyish mumkin.\nXarakterning teskari tomonlari: Bu toifadagi kishilarning aslida qanday inson ekanliklarini bilish har kimga ham nasib qilavermaydi, chunki ular juda sirlidirlar.",
+
+      "score_range_2_min": "19",
+      "score_range_2_max": "28",
+      "score_range_2_image": "drawable/smile_38",
+      "score_range_2_text": "Bu turdagi insonlar o‘zlarini o‘zlari yaratadilar. Ko‘rinishdan g‘amgin qiyofa kasb etsalarda, aslida juda muloyim va nozik qalb egasi bo‘ladilar. Ular biror narsani faqat kerak bo‘lsagina o‘rganadilar. Ortiqcha narsalarga ko‘p ham bosh qotirmaydilar. Agar siz ushbu toifa insonlar sirasiga kirsangiz xursand bo‘lavering, sizda intuitsiya juda yaxshi, lekin u ko‘proq texnik xarakterga ega, chunki sizning miyangizda doimo taqqoslash, hisoblash va eng yaxshi yechimni tanlash amallari aylanadi. \n Xarakterning teskari tomonlari: Ularni muhokama qilishdan ko‘ra ortga chekingan ma’qul, yoki umuman muhokama qilmagan afzal. Siz kamyob insonlar toifasidansiz, lekin sizningcha ko‘p ham buni to‘g‘ri baholashmaydi!",
+
+      "score_range_3_min": "29",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_31",
+      "score_range_3_text": "Bu turdagi insonlar haqiqatga tik boquvchi, o‘z o‘rinlarida mustahkam turuvchi, ishbilarmon va hisoblidirlar, lekin bu aslo ularni o‘zgalar hisobidan foyda ko‘radi degani emas. Ularda hayotda o‘z o‘rinlarini topish uchun ijodiy qobiliyatlar bisyor va ular hayotdan o‘zlari uchun nima olishni yaxshi biladilar. Agar bunday insonlar ko‘magi bo‘lsa tog‘ni talqon qilishdan ham cho‘chimasangiz bo‘laveradi. Qisqasi — to‘g‘ri so‘z, ishonchli va jiddiy! \nXarakterning teskari tomonlari: Ko‘zlangan cho‘qqiga yetgach, yerga tushishni esdan chiqarmang. Voqealar ketma-ketligidan uzoqlashib real vaziyatni ko‘p ham to‘g‘ri baholay olmaysiz. To‘g‘ri yo‘lni ko‘ra bilish uchun siz doimo harakatda bo‘lishingiz lozim.",
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_24",
+      "score_range_4_text": "Bu toifa insonlar kuzatuvchan va sinchkov bo‘ladilar. Ular hatto mayda zarralardan 'qasr', kichik summalardan esa yirik moliyaviy imperiya qurishlari mumkin. Buning uchun ularga kichik sarmoya ham yetarli bo‘ladi. Ular mablag‘ va ish kuchini to‘g‘ri taqsimlay oladilar. Bunday toifa insonlarning shiori 'Sekin-sekin yurib uzoqqa yetasan”. Ular aslo maqtanishni yoqtirmaydilar va sokinlik, tinchlikni afzal ko‘radilar.\n Xarakterning teskari tomonlari: Boshqa toifadagi insonlar bilan tanishish sizga yanada kengroq imkoniyatlar eshigini ochadi. Buning uchun o‘z 'qobig‘ingizdan' biroz bo‘lsada chiqishni maslahat beramiz. Xavotir olmang,tug‘ma ehtiyotkorlik hissi sizni har qanday balodan asraydi. Oxir oqibat albatta g‘alabaga erishasiz, faqat bunikim bilan nishonlashni bilsangiz bas!",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Men kimman?",
+      "subject_image": "drawable/quiz_image1_11",
+      "subject_description": "O’zingizga chetdan nazar solishni xohlaysizmi? Boshqalardan ustun jihatlaringiz va kamchiliklaringizni bilmoqchimisiz?\n Unda quyidagi shakllardan birini tanlang va 1 raqami bilan belgilang. Qolganlarini ham yoqish-yoqmasligiga qarab, 5 gacha raqamlab chiqing. ",
+
+      "score_range_1_min": "8",
+      "score_range_1_max": "18",
+      "score_range_1_image": "drawable/smile_37",
+      "score_range_1_text": "Kvadratni birinchi o‘ringa chiqarganlar hayotda va ishda tartib-intizomga amal qiladi. Ular barcha ishni o‘z vaqtida bajarishni, tozalikni xush ko‘ruvchi, mehnatsevar va tirishqoq bo‘ladi. Qat’iyat, va’daning ustidan chiqish, halollik va tejamkorlik ham ularga xos.\n Kvadratlarning asosiy kamchiligi: o‘ta talabchanlik, mayda narsalarga ham katta e’tibor qaratish, qaysarlik, yangiliklarni qiyinchilik bilan qabul qilish, fantaziyaning kambag‘alligi.",
+
+      "score_range_2_min": "19",
+      "score_range_2_max": "28",
+      "score_range_2_image": "drawable/smile_24",
+      "score_range_2_text": "Ular yaxshi lider, yelkasiga mas’uliyat olishdan cho‘chimaydi. Kuchini to‘g‘ri yo‘naltira oladigan, o‘ziga ishonchi baland, tavakkalchi. Shu bilan birga, g‘ayratli, to‘g‘riso‘z, hissiyotga boy, aqlli odamlardir.\n Uchburchaklarning asosiy kamchiliklari: ularda xudbinlik yaqqol seziladi. Nazorat qilishni yaxshi ko‘radigan, manfaatlarini ko‘p narsadan ustun qo‘yuvchi, sabrsiz, diydasi qattiq, jahli tez bo‘ladi.",
+
+      "score_range_3_min": "29",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_31",
+      "score_range_3_text": "Ular juda kirishuvchan, mehribon, g‘amxo‘r, sadoqatli, kuchli ijtimoiy intuitsiyaga ega, bag‘rikeng, qo‘li ochiq, hissiyotlarga beriluvchan, kechirimli, konfliktlardan yiroq kishilardir.\n Ammo aylanalarda ham o‘ziga xos kamchiliklar yetarli: o‘zgalar fikriga tobelik, o‘ta yuvoshlik, betartiblik, doimiy ikkilanish, muhim qarorlar qabul qilishdan qochish, ko‘ngli bo‘sh, ishonuvchanlik.",
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_23",
+      "score_range_4_text": "Qiziquvchanlik, yaxshi ta’lim olish va yangilikka intilish,  o‘ta ziyraklik, ammo ishonuvchan va samimiylik ularga xos. To‘rtburchaklardagi asosiy yaxshi fazilat sezgirlikdir.\n Kamchiliklariga keladigan bo‘lsak, to‘rtburchak shaklni tanlaganlar o‘zini past baholovchi, qat’iyatsiz, qarorlari mavhum, ishi va so‘zi orasida tafovut bo‘ladi. Hissiy beqarorlik ham ularga tez-tez pand berishi mumkin. Sodda, unutuvchanlik va kechirimliligi bilan ajralib turadi.",
+
+
+
+      "score_range_5_min": "49",
+      "score_range_5_max": "58",
+      "score_range_5_image": "drawable/smile_32",
+      "score_range_5_text": "Ular yangilik va ijodga intiluvchan, o‘rganishga chanqoq, biroz xayolparast, optimist bo‘ladi. Tashabbuskorlik, kelajakka intilish va g‘alayonkorlik ham ularga begona emas.\n Zigzaglar tartibsizlikka moyil, qo‘nimsiz, o‘ta o‘zgaruvchan, qoidalarga amal qilmaslik, kesatib gapirish kabi xususiyatlari sabab tez-tez muammolarga duch keladi."
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Rasmda nimani ko’rayapsiz?",
+      "subject_image": "drawable/quiz_image1_12",
+      "subject_description": "Bitta variantni tanlab, javobini ko’ring!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "18",
+      "score_range_1_image": "drawable/smile_17",
+      "score_range_1_text": "Siz qandaydir aql bovar qilmaydigan, jumboqli va sirli narsani yaxshi korasiz. Siz sirli odamsiz. Sizni ichingizni bilish qiyin.",
+
+      "score_range_2_min": "19",
+      "score_range_2_max": "28",
+      "score_range_2_image": "drawable/smile_29",
+      "score_range_2_text": "Siz romantiksiz, siz go’zal va pokiza sevgini orzu qilasiz. Va asosiysi, bunga yetishish yo’lini bilasiz. Siz — sevgi va baxt sehrgarisiz.",
+
+      "score_range_3_min": "29",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_36",
+      "score_range_3_text": "Siz orzu qilishni sevasiz va asosiysi uni haqiqatga aylantirishni yaxshi ko’rasiz.",
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_39",
+      "score_range_4_text": "Siz doimo o’zingizni erkin inson deb hisoblaysiz. Siz bu hayotni, bu dunyoni sevasiz. Siz turna kabi ozod, tovus kabi go’zalsiz. Sizni bu hayotda omadingiz kelgan.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Barmoqlar nima deydi?",
+      "subject_image": "drawable/quiz_image1_13",
+      "subject_description": "Bu oson. Qo’lingizga qarang va  ko’rsatgich barmoq bilan nomsiz barmoqning  (ya’ni  to’rtinchi barmoq)uzunligini solishtiring",
+
+      "score_range_1_min": "8",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_24",
+      "score_range_1_text": "Bunday odamlar ko’rinishi ko’rkam, jozibadordirlar. Gaplari ma’noli bo’ladi. Odamlarning diqqatini osongina jalb qila oladilar. Ular boshqalarga qaraganda juratli, tavakkal qilishga o’ch va muammolarni osongina hal qila oladilar. Ularning o’ziga xos sifatlardan yana biri- suhbatdoshlariga nisbatan hamdard va qayg’udosh bo’la olishlaridir. Bunday odamlardan ajoyib muhandis, olim va krossvord ustalari yetishib chiqadilar",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "28",
+      "score_range_2_image": "drawable/smile_31",
+      "score_range_2_text": "Bunday odamlar o’ziga ishongan bo’ladilar. O’zlari mansub bo’lgan tabaqadan rohatlanadilar, bekorchi ishlar bilan bezovta qilishlarini yoqtirmaydilar. Biznes uchrashuvimi yoki ishqiy munosabatmi, farqi yo’q, ular hech qachon birinchi bo’lib tashabbus ko’rsatmaydilar. Ammo e’tiborni qadrlaydilar va maqtov hamda iltifotlarni xush ko’radilar.",
+
+      "score_range_3_min": "29",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_37",
+      "score_range_3_text": "Bunday barmoq sohiblari sulxparvar va ko’ngli ochiq odamlardir, ziddiyatlarni yoqtirishmaydi. Turmush tarzlari batartib, hamma bilan murosa qila oladilar. Bunday odamlar yaqinlariga sadoqatli, ishda esa fidokordirlar. Lekin ehtiyot bo’ling, jahli chiqsa lov etib yonib ketadi, shuning uchun doim ularning tarafida bo’ling.",
+
+
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_35",
+      "score_range_4_text": "",
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Sevgi",
+
+      "subject_name": "Sevgi fazosida erkin qush bo'ling",
+      "subject_image": "drawable/quiz_image2_1",
+      "subject_description": "Muhabbat bo`yinga solingan sirtmoqqa aylanmasligi uchun insonga erkinlik kerak. Kimgadir harakat erkinligi, kimgadir tuyg`ular, yana kimlargadir fikr erkinligi. Quyidagi 10 savolga javob berib, muhabbatda aynan siz uchun uning qaysi turi muhim ekanligini bilib oling. Bu o`zingizni yanada yaxshiroq tushunib, yoringiz bilan o`rtangizdagi tushunmovchiliklarni bartaraf etishingizga ko`maklashadi. Ha aytgandek, javoblar orasida to`g`ri yoki noto`g`rilari yo`q. Shunchaki, ko`nglingiz chopgan birinchi variantni belgilang. Ichki sezgingizga ishoning.",
+
+      "score_range_1_min": "9",
+      "score_range_1_max": "16",
+      "score_range_1_image": "drawable/smile_34",
+      "score_range_1_text": "Harakat erkinligi. \n Siz uchun o`zingiz istagan paytda, o`zingiz xohlagan joyga borish juda muhim. Qolaversa, bu haqda hisobot berishni ham yoqtirmaysiz. Sevgi deganda sevishganlarning doim birga bo`lishini tushunmaysiz. Albert Kamyu aytganidek: 'Erk kishiga ma`nan o`sish imkoniyatini beradi'. Juftingizni hurmat qilasiz va noo`rin rashkingiz bilan yolg`on so`zlash, o`zini oqlashga majbur qilmaysiz. Har kimning o`z hududi bo`lishi lozim degan qarashni qo`llab quvvatlaysiz. Orangizdagi masofa qanchalik yiroq bo`lsa, yoringizni kuchliroq sevishingizni tushunasiz. Har kuni qaror qabul qilish inmkoniyatiga ega bo`lishingiz lozim. Afsuski erkinlikning ushbu turiga bo`lgan ehtiyojingizni juftingiz doim ham to`g`ri tushunavermaydi. \n Ustunligi: kichik ayriliqlar muhabbatingizni alangalatib turadi. \n Maslahat: agar turmush o`rtog`ingiz ham sizdek o`ylamasa, erkinlikning bu turi munosabatlaringizga rahna solishi mumkin. Yoringiz sizdagi erkinlikka bo`lgan chanqoqni tushunmasligi va oxir oqibat sabr kosasi to`lishi mumkin. Balki juftingizning qarashlariga quloq tutib, oqim bo`ylab suzishga harakat qilganinigiz yaxshidir. ",
+
+      "score_range_2_min": "17",
+      "score_range_2_max": "23",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Fikr erkinligi \n Shioringiz 'Inson o`qilmagan kitob kabi bo`lishi lozim'. Hatto, qalbingizni sevgan insoningizga hadya etib ham erkinligingizni saqlab qolasiz. Bu degani o`zinigizga yarasha sirlaringiz, o`rtoqlashishni istamagan hayollaringiz, faqat o`zingizgagina tegishli olamingiz bor degani. Boshqacha qilib aytganda sizga ichki mustaqillik zarur. Bu bilan yoringizni hurmat qilmaysiz, demoqchi emasmiz. Axir u atrofdagilar orasida fikrlaringizni ochiq ayta oladigan eng yaqin insoningizligicha qolaveradi. \n Ustunligingiz: O`zingizni bunday tutishingiz sevgan insoningiz qarshisida sizni yanada sirli ko`rsatadi. Shuningdek bu turdagi mustaqillik kundalik hayotingizga halal qilmaydi. \n Maslahat: Ba`zida yaqinlaringiz hatti-xarakatlaringizni sovuqqonlik, e`tiborsizlik deya qabul qilishlari mumkin. Yaxshisi, tuyg`ularingiz kuchini ochiq ko`rsatishga harakat qiling. Aks holda orangizdagi masofa kattalashib boraveradi.",
+
+      "score_range_3_min": "25",
+      "score_range_3_max": "31",
+      "score_range_3_image": "drawable/smile_29",
+      "score_range_3_text": "Tuyg`ular erkinligi \n Muhabbat qissasi uzoq va baxtli davom etishi uchun ko`ngil amriga quloq tutish shart, degan qarashni ilgari surasiz. Yurakka buyruq berib, o`zingizni kimnidir yoqtirishga majburlay oladiganlar toifasidan emassiz. Ikkiyuzlamachilikka ham toqatingiz yo`q! Agar juftingizga nisbatan hurmatingiz so`nmasa, munosabatlardagi kichik tushunmovchiliklar ayriliq uchun asos bo`la olmasligini ham yaxshi bilasiz. Har qanday cheklovlarga chidashingiz mumkin, faqat o`z hislaringizga qarshi chiquvchi qarorlar qabul qilishga dosh berolmaysiz. Yoringiz shirin so`zlaringizni tinglashni istab turganini bilsangiz-da, agar unga mehringiz toblanib ketmasa tuyg`ularingizni izhor etmaysiz. Shundan keyin yoringiz bilan o`rtangizda tushunmovchiliklar yuzaga kelishi mumkin. \n Ustunligingiz: O`zaro hurmat, e`tibor va e`tirofni har qanday o`tkinchi hoyu-havas va g`azabdan ustun qo`yasiz. Shuning uchun ham juftingiz bilan o`rtangizda soxtalik va aldovlarga o`rin qoldirmaysiz. O`zingiz ham boringizcha bo`lasiz, uni ham boricha qabul qila olasiz. \n Maslahat: Yoringiz tuyg`ularingizni to`g`ri tushunib, shubhayu gumonlar changalidan chiqib olishi uchun uning ham hislariga e`tibor qarating. Nafaqat hurmatingizni, asl tuyg`ularingizni ham bildirib turing.",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "45",
+      "score_range_4_image": "drawable/smile_35",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Sevgi",
+
+      "subject_name": "Sizni sevgan insonni ishonchini oqlay olasizmi?",
+      "subject_image": "drawable/quiz_image2_2",
+      "subject_description": "Har qanday munosabatlar o`zaro ishonch asosiga quriladi. Bu turmushning eng asosiy shartlaridan biridir. Atrofdagilarning, ayniqsa, ko`ngil qo`ygan kishingning ishonchini qozonish esa juda muhim. Xo`sh, siz bu ishni qanchalik uddalayapsiz?",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "6",
+      "score_range_1_image": "drawable/smile_29",
+      "score_range_1_text": "Sizga ko`ngil qo`ygan insonning omadi bor ekan. Axir har qanday vaziyatda ham uni qo`llab-quvvatlashga tayyor turasiz-da. Hatto orangizga masofalar soya solsa-da, aslo boshqasi haqida o`ylab ham ko`rmaysiz. Ammo ruhshunoslar bunday munosabatni yoqlashmaydi. Siz sadoqat tushunchasini o`zni qurbon qilish deb talqin qilasiz. Albatta, sir saqlay olishingiz juda yaxshi, ammo yaqin insoningiz yoningizda bo`lmasa, do`stlar bilan ko`rishish va xursandchilik qilishning yomon tomoni yo`q. U ham sadoqatingizga munosib javob qaytara oladimi, yo`qmi? Shu savolga javob bering. Agar HA desangiz, bir-biringizga juda munosib juftliksiz. Agar ikkilansangiz, haddan ortiq sadoqat ko`rsatishga hojat yo`q. Ehtimol, yoringizdan yuz o`girmasligingizni aniq bilgani uchun  yetarlicha e`tibor ko`rsatmayotgandir? O`ylab ko`ring",
+
+      "score_range_2_min": "7",
+      "score_range_2_max": "11",
+      "score_range_2_image": "drawable/smile_26",
+      "score_range_2_text": "Yoringizni eshita olishingiz va tushunishga harakat qilishingiz ishonch uyg`otadi. Agar uzoq muddat ko`rishmasangiz, sog`inchingizni yengishingiz mushkul kechadi. Ammo o`zingizni chalg`itish usullarni ham yaxshi bilasiz va ulardan o`rinli foydalana olasiz. Munosabatlaringiz janjallarsiz davom etishini istasangiz, unda shubha uyg`otishi mumkin bo`lgan hatti-harakatlardan ehtiyot bo`ling. Masalan, uning shaxsiy buyumlari va qo`l telefonini tekshirish odatlaringizdan voz kechsangiz, o`zaro ishonch yanada ortadi.",
+
+      "score_range_3_min": "12",
+      "score_range_3_max": "18",
+      "score_range_3_image": "drawable/smile_11",
+      "score_range_3_text": "Ehtimol kimdir ko`nglingizga ozor bergan-u, shu tufayli atrofdagilarga ishonmay qo`ygansiz. Ishonchsizligingizning sababi oddiy, o`sha voqealar yana takrorlanishidan havotirdasiz. Ammo bu hatti-harakatlaringizni ko`ngil qo`ygan insoningizda noto`g`ri taassurot paydo bo`lishiga olib keladi. U ham sizga butunlay ishona olmaydi. Shu sabab o`rtangizda jarlik paydo bo`lishi mumkin. Agar munosabatlaringizni qadrlasangiz, uning ishonchini qozonish uchun harakat qilishingiz lozim. Buning uchun faqat o`zingiz haqingizda o`ylayvermay, u nimani istashini tushunishga harakat qilishingiz lozim. Bergan va`dangizda turishga odatlaning va qo`rquvlaringizni yengib, yoringizga ko`nglingizni oching",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_35",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Sevgi",
+
+      "subject_name": "Rashk qilasizmi?",
+      "subject_image": "drawable/quiz_image2_3",
+      "subject_description": "Savollarga faqat HA yoki YO'Q deb javob bering",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "9",
+      "score_range_1_image": "drawable/smile_28",
+      "score_range_1_text": "Sizga rashk tuyg`usi yot, desa ham bo`ladi. Ammo hammasini yig`ib yuribsiz va vaqti bilan portlab turasiz. Lekin tinchlanib olganingizdan so`ng, rashk qilishga hech qanday asos bo`lmaganini o`ylab, afsuslanasiz.  Rashkingizni keltirgan narsalar haqida turmush o`rtog`ingiz bilan xotirjam gaplashib oling",
+
+      "score_range_2_min": "10",
+      "score_range_2_max": "20",
+      "score_range_2_image": "drawable/smile_21",
+      "score_range_2_text": "Sizning rashkingiz kasallik darajasiga etgan. Sevgan insoningizni faqat sizgagina tegishli bo`lishi kerak deb o`ylaysiz. O`zingizni ko`rimsiz, hunukman, mendan chiroyli bir xurliqo erimni tortib oladi degan hadikda yashaysiz. Turmush o`rtog`ingizga umuman ishonmaysiz. Bunchalik rashkchi bo`lish yaxshilikka olib kelmaydi. Begingizga ishoning, axir shuncha xurliqolar ichidan u sizni tanladi.",
+
+      "score_range_3_min": "25",
+      "score_range_3_max": "31",
+      "score_range_3_image": "drawable/smile_21",
+      "score_range_3_text": "",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_35",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Ish va karera",
+
+      "subject_name": "Siz lidermisiz?",
+      "subject_image": "drawable/quiz_image3_1",
+      "subject_description": "Savollarga o‘ylab o‘tirmasdan javob bering. Uchta javobni ishlatishingiz mumkin: Ha, Yo‘q va Bilmayman. ",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "45",
+      "score_range_1_image": "drawable/smile_23",
+      "score_range_1_text": "Sizning javoblaringiz Psixologik Ilonga xos. Garchi zaruriyati bo‘lmasa-da, har qanday jerkishni osongina hazm qilasiz, hech kim talab qilmayotgan bo‘lsa-da, bor-budingizni qurbon qilishga tayyor bo‘lasiz. Ko‘pincha o‘z ojizligingizni anglagach, siz… dadil xatti-harakatlarni amalga oshirasiz. Chorasizlikdan, o‘zingizda yetishmayotgan harakter qirralarini boshqalardan qidira boshlaysiz va o‘zingiz uchun eng yaxshi hayot umidi va ma’nosini ana shundan topasiz.",
+
+      "score_range_2_min": "46",
+      "score_range_2_max": "95",
+      "score_range_2_image": "drawable/smile_31",
+      "score_range_2_text": "Muvozanat va qat’iyat, oqillik va hisob-kitob, to‘g‘ri va oqilona maslahat berish — mana bular sizning bosh fazilatlaringizdir. Boshqalarning fikri va istagini hisobga olib, agar muhim bo‘lsa boshqarasiz, agar kerak bo‘lsa yon berasiz. Biroq kerakli vositalardan foydalanib doim ham maqsadga yetishayotganingiz yoki yo‘qligini faqat o‘zingiz bilasiz.",
+
+      "score_range_3_min": "96",
+      "score_range_3_max": "150",
+      "score_range_3_image": "drawable/smile_24",
+      "score_range_3_text": "Sizning javoblaringiz nima qanday ekanligi va qanday bo‘lishi kerakligini biluvchi buyuk diktator siymosini yaratmoqda. Bunday xatti-harakatingizni siz osongina oqlaysiz. Siz boshqalarni ishontirolasiz va ishni o‘z muddatida bajartirish uchun ular ustidan rahbarlik qilolasiz. Biroq, dam-badam qo‘l ostingizdagilarning tovushida, nigohlarida dam olishga fursat bering, degan nido ko‘rasiz!",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_35",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Ish va karera",
+
+      "subject_name": "Rahbarlikni uddalay olasizmi?",
+      "subject_image": "drawable/quiz_image3_2",
+      "subject_description": "Hayotning so'qmoqlari ko'p. Shunday kunlar keladiki, insonga o'zgalar ustidan rahbarlik qilishdek mas'uliyatli va sharafli vazifani ado etish nasib qiladi. Xo'sh, buni kim qanday uddalaydi? Siz mabodo rahbarlik lavozimida ishlashingizga to'g'ri kelsa, bosh qashib qolmaysizmi? Ushbu test yordamida o'zingizni sinab oling",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "7",
+      "score_range_1_image": "drawable/smile_32",
+      "score_range_1_text": "Sizga har qanday rahbarning havasi kelsa, sizdan o'rnak olsa arziydi. Qayerga bormang, qanday lavozimga tayinlanmang, birinchi navbatda ichkaridagi muhit bilan yaqindan tanishasiz. Har bir xodimning ichki dunyosini o'rganasiz. Va qolaversa, hammasini jamlab, undan so'ng boshqaruv usulini ishlab chiqasiz. Bo'sh kelmang!",
+
+      "score_range_2_min": "8",
+      "score_range_2_max": "15",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Sizni kuchli va yaxshi rahbar deb bo'lmaydi. Nazarimizda, siz eskicha boshqaruv yo'lida qolib ketgansiz. To'g'ri, tashqaridan qaraganda, korxona yoki tashkilotingizda ishlar juda yaxshi ketayotgandek. Ammo o'ylab ko'ring. Hodimlaringiz sizga qanday ko'z bilan qarashmoqda? Balki ortingizdan g'iybat ham qilishayotgandir? Hurmatingiz ular orasida bormi-yo'qmi, shuni bir tekshirib olib, ana undan so'ng ish usulingizni ham o'zgartirishga urinsangiz yomon bo'lmasdi.",
+
+      "score_range_3_min": "25",
+      "score_range_3_max": "31",
+      "score_range_3_image": "drawable/smile_21",
+      "score_range_3_text": "",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_35",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Ish va karera",
+
+      "subject_name": "Kasbingiz o`zingizga munosibmi?",
+      "subject_image": "drawable/quiz_image3_3",
+      "subject_description": "'Bo`ynidan boylangan it ovga yaramas' degan maqol bor. Chindan ham, majburlab qilingan ish boshqayu istab qilingani boshqa. Inson sevgan kasbi bilan shug`ullangandagina o`sishi, rivojlanishi, biron yangi narsa yaratishi va hayotdan qoniqishi mumkin. Kasbingiz o`zingizga yoqadimi, undan lazzatlanasizmi? Yoki shunchaki majburlikdan bu ishda ishlayapsizmi? Test shuni aniqlashga yordam beradi.",
+
+      "score_range_1_min": "1",
+      "score_range_1_max": "22",
+      "score_range_1_image": "drawable/smile_22",
+      "score_range_1_text": "Afsuski, ishingiz sizga hech qanday qoniqish bermaydi, vaqtingiz asosan zerikish bilan o`tadi. Bu joyda ishlab o`zingizni namoyon etishingiz va rivojlanishingizga ko`zingiz etmaydi. Maslahatimiz, vaziyatni yaxshilab tahlil qiling, sabablarini aniqlang. O`ylab ko`ring, qayerda ishlasangiz, o`zingizni yaxshiroq namoyon etishingiz mumkin? O`zingizga ishonchingiz butkul so`nmay turib munosib kasb izlab toping. Balki u ham butunlay sizga mos kelmas, ammo har qanday yangi ish qiziqroq-da. U sizda yangi qobiliyatlarni ochishi mumkin.",
+
+      "score_range_2_min": "22",
+      "score_range_2_max": "26",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Ishingizni yaxshi bajarasiz, ammo baribir undan qoniqmaysiz. Chunki sizning qobiliyatlaringiz hozir bajarayotgan ishingizdan balandroq, ya`ni siz ko`prog`iga qodirsiz. Vaziyatni o`zgartirish uchun biron muvaffaqiyat yordamga kelishi kerak, mayli juda kichik bo`lsa ham, ammo muvaffaqiyat. Shunda kayfiyatingiz ko`tarilib, yanada ilhomlanib ishlaysiz. Yana bir sabab bor: hamkasblaringiz bilan munosabatlaringiz yaxshi emas. Shu masala ustida ishlang, ular sizga halaqit bermasliklari uchun zarur choralarni ko`ring.",
+
+      "score_range_3_min": "27",
+      "score_range_3_max": "42",
+      "score_range_3_image": "drawable/smile_34",
+      "score_range_3_text": "Siz ham maishiy, ham kasbiy vaziyatlarga oson moslashasiz. O`sish va rivojlanish uchun doim imkon qidirasiz. Istalgan ish o`rnida o`zingizni qulay his etasiz, bajarayotgan ishingiz doim sizga qoniqish hissini beradi. Shu sababli birinchi duch kelgan ishga rozi bo`lib ketavermang, qobiliyatlaringizni qadrlang.",
+
+      "score_range_4_min": "60",
+      "score_range_4_max": "80",
+      "score_range_4_image": "drawable/smile_35",
+      "score_range_4_text": "e",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Oila",
+
+      "subject_name": "Turmushingizdan baxtlimisiz?",
+      "subject_image": "drawable/quiz_image4_1",
+      "subject_description": "Turmushinigizda o‘zaro muvofiqlik bor-yo‘qligini quyidagi test orqali bilib olishingiz mumkin. Savollarga javob berib, o‘zingiz va oilangiz haqida yangi-yangi ma’lumotlarga ega bo‘lasiz",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "3",
+      "score_range_1_image": "drawable/smile_15",
+      "score_range_1_text": "Nikohingizni hali garmoniyali deb atash qiyin. Sizlar alohida o‘z-o‘zingiz bilan va faqat o‘zingiz uchun yashaysiz. Har biringizning oila haqidagi qarashlaringiz har xil, qiziqish va intilishlaringiz ham tamomila farq qiladi. Uyingizni ham sokin osoyishta deya olmaymiz, u xuddi talabalar yotoqxonasi kabi g‘ala-g‘ovurli, sershovqin. Turmush o‘rtog‘ingizning ba’zi qiliqlari g‘ashingizga tegadi, bir uyda istiqomat qilganingizdan xursand emassiz. Bolalar ham park, toqqa chiqib dam olishdan umid bo‘lmagani uchun o‘z ishlariga o‘ralashib yuradi.\n Maslahatimiz: atrofdagi voqealarga bee'tibor bo‘lmay, vaziyatni tezda to‘g‘irlang. Yo‘qsa bunday xonadoshlik o‘zining mantiqiy yakuniga yetib, oilangiz buzilib ketishi mumkin.",
+
+      "score_range_2_min": "4",
+      "score_range_2_max": "6",
+      "score_range_2_image": "drawable/smile_28",
+      "score_range_2_text": "Oilangizda to‘liq uyg‘unlik bor deya olmaymizu, har holda umid yo‘q emas. Eng asosiysi–ikkalangiz ham mustahkam oilani barpo etib, saqlashni istaganingiz, demak, hammasi o‘z qo‘lingizda. Orangizdan “g‘idi-bidi” bo‘lib tursa-da, hech qachon bir-biringizning manfaatlaringizga zid qaror qabul qilmaysizlar. Yillar davomida bir-biringizni yaxshiroq tushunib, xarakteringizdagi nomuvofiqliklarni yengib o‘tasiz. \n Maslahatimiz: Ro‘zg‘or masalalari va bolalar tarbiyasi o‘z yo‘liga, partneringizning ichki dunyosi bilan ham ko‘proq qiziqing.",
+
+      "score_range_3_min": "7",
+      "score_range_3_max": "11",
+      "score_range_3_image": "drawable/smile_29",
+      "score_range_3_text": "Sizlarga faqat havas qilish kerak. Xarakterlaringizdagi hamma jihatlar o‘xshash. Bir-biringizni ko‘z qarashidanoq tushunasiz, hamrohingiz nimani o‘ylab, nimani his qilayotganini bilib turasiz. U haqiqatdan sizning “ikkinchi yarmingizga” aylangan. O’rtangizda gap qochishi amri mahol. Mobodo shunday bo‘lsa, yarashuv uzoq kutilmaydi. Sizning nikohingizni yuz foiz ideal deb atash mumkin. \n Maslahatimiz: Turmushdagi farovonlik va barqarorlik yaxshi, lekin uni asrab-avaylash kerakligini ham unutang. Ba’zan misqollab yig‘ilgan oilaviy baxtni nojo‘ya bir so‘z bilan barbod qilish qilish hech gap emas.",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_35",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Oila",
+
+      "subject_name": "Siz qanday kelinsiz?",
+      "subject_image": "drawable/quiz_image4_2",
+      "subject_description": "Qaynona va kelinlar munosabati haqida gazeta-jurnallarda yuzlab maqolalar yozilgan, filmlar suratga olingan, hattoki qo`shiqlar ham kuylangan. Qay biriga qaramang, kelin bechora qurbon, qaynona esa uni yamlamay yutishga tayyor 'Anakonda'! Lekin, hozirgi qizlar ham anoyi emas-da. 'Kelinlik' maqomiga erishganiga 3 kun bo`lmasdan, qaynonasini tokchaga choynakdek terib qo`yishni orzu qilishadi. 'Juda oshirib yubordingiz' deysizmi?! U holda quyidagi test savollariga javob berib, qanday kelin ekanligingiz (yoki kelajakda) ni bi-i-ir isbotlang.",
+
+      "score_range_1_min": "15",
+      "score_range_1_max": "26",
+      "score_range_1_image": "drawable/smile_27",
+      "score_range_1_text": "Tirishib-tirmashib qaynonangizni ko`nglini olishga harakat qilasiz. Bu ishingiz to`g`ri. Nega deganda yosh oilangiz butunlay eringizning ota-onasiga qaram-da! O`z uyingiz yo`q, ro`zg`or tebratishga yetarli maosh ham olmaysiz. Sizga yoqsa-yoqmasa sabr va qanoat bilan yashashdan boshqa ilojingiz yo`q. Ammo zahringizni ham ichingizga yutmang, aks holda bir kun portlashingiz hech gap emas. Maslahatimiz, sixni ham, kabobni ham ko`ydirmaslikka harakat qiling. Siz, eringiz va farzandlaringiz bilan bog`liq masalalarda damba-dam o`z fikringizni aytib turing. Pazandalik, chaqqonlikdan tashqari, shaxs sifatida ham qaynonangizni hurmatini qozoning.",
+
+      "score_range_2_min": "27",
+      "score_range_2_max": "40",
+      "score_range_2_image": "drawable/smile_23",
+      "score_range_2_text": "Oilaviy ishlarga hech kimni aralashtirishni istamaysiz. Mustaqil bo`lishga intilasiz,  hech bir jihatdan qaramlikni yoqtirmaysiz. Shu sababli qaynongizdan yordam so`ramaysiz, uni oilaviy muammolardan xoli tutasiz. Har qanday masalani o`zingiz hal etishga o`rgangansiz. Oilangiz er-xotin birgalikda tuzgan qoidalaringizga asoslanib yashaydi. Biroq chegaradan chiqib ketmang. Turmush o`rtog`ingizning ota-onasi o`g`lining hayoti, nabiralarining tarbiyasi bilan qiziqishga, hatto aralashishga ham haqli! Unutmang!",
+
+      "score_range_3_min": "41",
+      "score_range_3_max": "54",
+      "score_range_3_image": "drawable/smile_28",
+      "score_range_3_text": "Qaynonangiz bilan xuddi dugonalardeksiz. Mulohazali va aqlli ayol ekaningiz ham shunday ma`lum. Eringiz uchun qadrli ikki ayolning o`rtasida hech qanday kelishmovchilik yuzaga kelishiga yo`l qo`ymaysiz. Turmush o`rtog`ingizning voliadasini qanday xushnud etishni va o`z hududingizni dahlsiz saqlashni yaxshi bilasiz. O`g`lini sizga ishonib topshirgan ayol ham maqtovlarga loyiq. Kelinni yaxshi tanlabsiz, barakalla, Qaynonajon!",
+
+      "score_range_4_min": "55",
+      "score_range_4_max": "65",
+      "score_range_4_image": "drawable/smile_21",
+      "score_range_4_text": "Qaynonangizni bir ko`rishdayoq yoqtirmagansiz, tan oling. O`zingizcha eringizga qo`shib, bu keksa ayolni ham qayta tarbiyalashni maqsad qilgansiz-da. Maslahatimiz, xomtama bo`lmang! Ro`zg`oringiz, juftingiz bilan munosabatingiz, bolalaringiz tarbiyasini qaynonangizdan hadeb qizg`onavermang. O`zingizni xuddi siyosiy arboblardek hushmuomala tutishingizdan, yuqoridagi xislatlaringiz ko`zga tashlanmaydi. Qaynonani do`st bilsangiz, u sizga ko`p ishlarda ko`mak berishi shubhasiz!",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Farzandlar",
+
+      "subject_name": "Bolalarni ota-ona tarbiyalaydi, ota-onani-chi?",
+      "subject_image": "drawable/quiz_image5_1",
+      "subject_description": "Bolalar tarbiyasida ota-onaning o‘rni alohida ahamiyatga ega hisoblanadi. Ular bolaning bosh 'loyihachisi', 'ixtirochisi', 'quruvchisi' hisoblanadi. Shunday ekan, shaxsni vujudga keltirishdek mas’uliyatli va murakkab vazifani nechog‘li muvaffaqiyatli tarzda uddalayotganingizni bilishingiz juda muhim. Berilgan savollarga diqqat qilib ko‘ring-a. Ularga samimiy javob topa olasizmi? Bu test sizning ota-ona sifatida tasavvuringizni to‘ldirishda, bola tarbiyasi muammosi haqida aniq xulosa chiqara olishingizda ko‘maklashadi, deb o‘ylaymiz.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "16",
+      "score_range_1_image": "drawable/smile_18",
+      "score_range_1_text": "Sizda yoki bilim, yo bolani mukammal shaxs qilish orzusi yetishmaydi. (Ehtimol unisi ham, bunisi ham). Siz mutaxassis tarbiyachi yoki ruhshunoslarga murojaat qilishingiz zarur. Tavsiyamiz, ko‘proq bola tarbiyasiga oid adabiyotlarni o‘qing.",
+
+      "score_range_2_min": "17",
+      "score_range_2_max": "30",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Bolaga g‘amxo‘rlik siz uchun eng muhim masala. Siz tarbiyachilik iste’dodiga egasiz, lekin buni amalda yaqqol ko‘rsatolmaysiz. Ba’zan haddan tashqari talabchan bo‘lasiz, ba’zan o‘ta yumshoq… Bola tarbiyasiga munosabatingizni jiddiy o‘ylab ko‘ring.",
+
+      "score_range_3_min": "31",
+      "score_range_3_max": "39",
+      "score_range_3_image": "drawable/smile_28",
+      "score_range_3_text": "Bola siz uchun eng katta boylik. Siz nafaqat uni tushunishga, balki uni bilishga intilasiz, unga hurmat bilan qaraysiz, tarbiyada ko‘proq ibrat tadbirlarini qo‘llaysiz. Demak, Siz oqilona ish tutyapsiz. Bolangiz kelajagidan ajoyib natijalar kutishingiz mumkin!",
+
+      "score_range_4_min": "50",
+      "score_range_4_max": "60",
+      "score_range_4_image": "drawable/smile_15",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Juftingiz",
+
+      "subject_name": "Sizning fe'lingizga mos yigit qanday?",
+      "subject_image": "drawable/quiz_image6_1",
+      "subject_description": "Sizning juftingiz qanday bo'lishi kerak? Sizga qanday turdagi yigitlar kerakligini bilishni istasangiz, marhamat, savollarga javob bering va bilib oling.",
+
+      "score_range_1_min": "1",
+      "score_range_1_max": "14",
+      "score_range_1_image": "drawable/smile_38",
+      "score_range_1_text": "Sizning yigitingiz yoqimtoy, chiroyli, hamda xushmuomala bo'lishi sizga baxt keltiradi. Shu xislatga egalarni toping.",
+
+      "score_range_2_min": "15",
+      "score_range_2_max": "21",
+      "score_range_2_image": "drawable/smile_23",
+      "score_range_2_text": "Sizga sirli, ichimdagini top deydigan, hamda sizni himoya qiladigan e`tiborli yigit kerak.",
+
+      "score_range_3_min": "22",
+      "score_range_3_max": "24",
+      "score_range_3_image": "drawable/smile_15",
+      "score_range_3_text": "Sizga o'ziga ishongan mulohazali tushunadigan yigit kerak. Yigit tanlashda yuqoridagi xislatlarga ko'proq etiborli bo'ling.",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Juftingiz",
+
+      "subject_name": "Eringizni ko'ngil qulfini ocha olasizmi?",
+      "subject_image": "drawable/quiz_image6_2",
+      "subject_description": "Hech bir erkak, hatto donishmandu faylasuflari ham ayolni tushunmaganlari kabi — ayollar ham erkaklarning xatti-harakati va mantig`ini anglashga ojizlik qilamiz. Jahlimiz chiqqan vaqtda 'Erkaklarning barchasi bir xil' deb aytish esa odatiy gapga aylanib qolgan desak, yolg`on bo`lmaydi. Kuchli jins vakillarining yuragiga yo`l oshqozondan o`tgan ekanligi, fe`li torligi haqida bilsak-da, ko`pincha bu bilimlar turmush o`rtog`imizning qalb qulfini ochish uchun ozlik qilishini tan olmay ilojimiz yo`q. Xo`sh, jufti halolingizning ko`nglini qanday qilib zabt etishingiz mumkin?! Quyidagi testni yechib, ba`zi savollaringizga javob topishingiz mumkin.",
+
+      "score_range_1_min": "1",
+      "score_range_1_max": "10",
+      "score_range_1_image": "drawable/smile_29",
+      "score_range_1_text": "Siz turmush o`rtog`ingizni ko`ngliga allaqachon yo`l topa olgan ayolsiz. Bir-biringizni so`zsiz tushunasiz desak, aslo mubolag`a sanamang. Muhimi, ikkinchi tomonni diqqat bilan tinglashni bilasiz. Bunda nafaqat sizning, balki eringizning ham hissasi katta. U oilaparvar inson, sizni hurmat qiladi. Uning hurmatini oqlashda davom eting",
+
+      "score_range_2_min": "11",
+      "score_range_2_max": "22",
+      "score_range_2_image": "drawable/smile_28",
+      "score_range_2_text": "Siz hamon eringizni fe`lini o`rganayotgan ayolsiz. Ba`zan bu ishni oxiriga yetkazishga sabringiz yetmay qoladi. Eringiz sizdan ko`p narsa talab qilmaydi, shunchaki, ikki og`iz shirin gap va e`tibor u uchun etarli. Juftingiz kamgapligini siz suhbatlashishni istamayaptmi deb tushunmang. Faqatgina uning kayfiyati bilan hisoblashing. Shunda u siz uchun dilkash suhbatdoshga aylanadi",
+
+      "score_range_3_min": "23",
+      "score_range_3_max": "32",
+      "score_range_3_image": "drawable/smile_22",
+      "score_range_3_text": "Eringizni fe`lidan ko`ra sizniki tezroq. Murosayu madora degan narsalar borligi yodingizdami, axir? Ayol kishi erkakdan bir pog`ona pastda bo`lsagina, oilasi tinchlik va mustahkamlikka erishadi. Turmush o`rtog`ingiz sizdan ko`p narsa talab qilmaydi, uning hurmatini joyiga qo`ying. Kichik masalalarda ham u bilan maslahatlashing. Aks holda oilangizdan ishonch va samimiyat asta-sekinlik bilan yo`qolib boradi.",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Juftingiz",
+
+      "subject_name": "Mehr bersang, mehr topasan",
+      "subject_image": "drawable/quiz_image6_3",
+      "subject_description": "Oramizda nafaqat yaqinlari, oila a’zolari, balki begonalardan  ham hech narsasini ayamaydigan, mehribon insonlar juda ko‘p. Ammo begonalar u yoqda tursin, eng yaqin insoniga ham yaxshilikni ravo ko‘rmaydiganlar ham topiladi. Shular qatorida odamlardan doimo nimanidir olish va undirishga o‘rganganlar ham bor. Siz ham o‘ylab ko‘ring: atrofdagilarni bir chetga sura turaylik, eng yaqin insoningiz uchun nimalardan voz kecha olasiz? U uchun nimalarga tayyorsiz? Bu borada o‘zingiz haqingizda aniq bir fikringiz bo‘lmasa yoki javob berishga ikkilanayotgan bo‘lsangiz, ushbu ruhiy testimiz aynan siz uchun!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "19",
+      "score_range_1_image": "drawable/smile_29",
+      "score_range_1_text": "Siz har qanday vaziyatda yaqin insoniga qulay bo‘lishini o‘ylaydiganlar toifasiga kirasiz. Agar bu sizga ham unga ham ma’qul bo‘lsa, juda yaxshi. Agar o‘zingizni ko‘p holatlarda qurbon qilayotgandek, mehribonligingizni suiiste’mol qilishayotgandek tuyulsa, u holatda bunga qarshi biror chora ko‘rishingiz va uni, qolaversa, o‘zingizni ham tarbiyalashni boshlashingiz lozim.",
+
+      "score_range_2_min": "20",
+      "score_range_2_max": "29",
+      "score_range_2_image": "drawable/smile_23",
+      "score_range_2_text": "Siz va sizning yaqin insoningiz o‘rtasidagi munosabatlar 'sizdan ugina, bizdan bugina' naqli ostida tashkil topgan. O’rtangizdagi hamma narsa bir-biriga mos va mutanosib. Har biringiz, istagingizga rad javobi berilmasligi va bunda o‘zini qurbon qilish shart emasligini bilasiz. Siz o‘zaro kelishib ish qilishni yaxshi ko‘radigan va fikrlari doimo bir joydan chiqadigan mustahkam juftliksiz.",
+
+      "score_range_3_min": "30",
+      "score_range_3_max": "39",
+      "score_range_3_image": "drawable/smile_28",
+      "score_range_3_text": "siz haqingizda mehribon va jonkuyar deb aytishning o‘zi kamlik qiladi. Siz uchun yoningizdagi insonning xursandchiligi, quvonchi va istaklari eng muhim omil sanaladi. Yaqin insoningizning birgina tabassumi uchun siz har qanday qurbonlikka tayyor bo‘la olasiz. Yaxshilik qilish barobarida siz undan ham shunday munosabat qaytarishini kutmaysiz, talab qilmaysiz.",
+
+      "score_range_4_min": "40",
+      "score_range_4_max": "50",
+      "score_range_4_image": "drawable/smile_26",
+      "score_range_4_text": "Yaqin insoni bilan munosabatlarda o‘z istaklarini ustun qo‘yadigan kishilardan sanalasiz. Siz xohish va istaklaringiz birinchi o‘rinda turishini talab qilasiz. Yaqiningizga mehr berishdan ko‘ra, mehr olishni xush ko‘rasiz. Agar yoningizda shunday inson bo‘lsa, demak omadingiz chopgan. Agar bunay insonni hali uchratmagan bo‘lsangiz, fe’lingizni oz bo‘lsada o‘zgartirishga urinib ko‘rishingizni maslahat bergan bo‘lardik. Munosabatlar ikki tomonlama mehr asosida qurilishini unutmang. Faqat o‘zingizni o‘ylasangiz, qadrli insongizning oldida qadringiz ketishi yodda tuting.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Juftingiz",
+
+      "subject_name": "Muhabbat va rashk oralig'i",
+      "subject_image": "drawable/quiz_image6_4",
+      "subject_description": "Oilaviy hayotda me'yordagi rashk yostiqdoshlarning birgalikdagi umrlari yanada mazmunli bo'lishiga olib keladi. Lekin haddan oshdimi, bu munosabatlarning buzilishiga sababchi bo'lishi aniq. Natijada er-xotin bir-biridan soviy boradi, qalbda ishonch tuyg'usini yo'qotadi. Xo'sh, siz-chi? Savollarga to'g'ri javob berib, o'zingizni anglang.",
+
+      "score_range_1_min": "12",
+      "score_range_1_max": "20",
+      "score_range_1_image": "drawable/smile_38",
+      "score_range_1_text": "Siz umuman rashkchi emassiz. Turmush o'rtog'ingiz ham rashk qilish uchun sharoit tug'dirmaydi.",
+
+      "score_range_2_min": "21",
+      "score_range_2_max": "28",
+      "score_range_2_image": "drawable/smile_27",
+      "score_range_2_text": "Rashkchisiz, lekin janjal ko'tarmaysiz. Hayolingizga qanday yomon o'ylar kelmasin, o'zingizni tuta olasiz.",
+
+      "score_range_3_min": "29",
+      "score_range_3_max": "36",
+      "score_range_3_image": "drawable/smile_21",
+      "score_range_3_text": "Siz rashk bobida naq olovning o'zisiz. Turmush o'rtog'ingizdan keragidan ortiq sadoqat talab qilasiz. Esda tuting, bu odatingiz bilan oilangizni barbod qilishingiz ham hech gap emas.",
+
+
+      "score_range_4_min": "50",
+      "score_range_4_max": "60",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Go'zallik",
+
+      "subject_name": "O'zingizga e'tiborlimisiz?",
+      "subject_image": "drawable/quiz_image8_1",
+      "subject_description": "Farzandni e`tiborsiz qoldirish mumkin emas, turmush o`rtoqning ham ko`nglini olish lozim, ota-onani, qaynota-qaynonaga ham mehrimizni izhor qilib turishimiz kerak. Uy ishlarini aytmasa ham bo`ladi! Ular doim alohida 'hurmat-ehtirom'ga muhtoj. Ishingiz, oilangiz, kundalik yumushlardan ortib, o`zigizga ham vaqt ajratasizmi? Ushbu test sinovi o`zingizga qachalik e`tiborli ekaningizni ko`rsatadi",
+
+      "score_range_1_min": "4",
+      "score_range_1_max": "20",
+      "score_range_1_image": "drawable/smile_12",
+      "score_range_1_text": "Oxirgi marta o`zingiz uchun qachon vaqt ajratganingizni eslay olasizmi? Shifokor ko`rigidan o`tganingizni-chi? Bu dunyoning tashvishlari hech qachon tugamaydi, hafta, hech bo`lmasa, oyda bir kunni,  albatta, o`zingizga bag`ishlang. O`zingizni suyib, ayasangizgina, atrofingizdagilar ham sizni qadrlay boshlashadi.",
+
+      "score_range_2_min": "20",
+      "score_range_2_max": "70",
+      "score_range_2_image": "drawable/smile_18",
+      "score_range_2_text": "O`zingizni yoddan chiqarmaysiz, lekin dangasalikdanmi yoki ishlaringiz o`ta ko`pligidanmi, har doim ham o`zingiz haqingizda o`ylamaysiz. Balki soch turmagingizni o`zgartirarsiz? Yoki kosmetologga borish ham kayfiyatingizni ko`tarib, o`zingizga bo`lgan ishonchingizni oshiradi.",
+
+      "score_range_3_min": "70",
+      "score_range_3_max": "100",
+      "score_range_3_image": "drawable/smile_28",
+      "score_range_3_text": "E`tiborlisiz. Qadringiz, hurmatigizni bilasiz. Atrofingizdagilar ham buni sezishadi. Yangiliklarni xursand qabul qilasiz, bu yaxshi. Lekin o`zingiz bilan yaqinlaringizning manfaatlari duch kelganda, ikkilanmay qiziqishlaringizni qurbon qila olasiz.",
+
+      "score_range_4_min": "100",
+      "score_range_4_max": "150",
+      "score_range_4_image": "drawable/smile_31",
+      "score_range_4_text": "Siz o`zingizga judayam e`tiborlisiz! Hayotdan zavq olishni qoyillatasiz. Bu hatto o`ta xudbinlik bilan ham yo`g`rilib ketgan. 'Men va faqat men' shiori bilan yashaysiz. O`zini yaxshi ko`rish yaxshi, albatta, biroq yaqin insonlaringizni e`tiborsiz qoldirmayapsizmikan? Axir ularga ham mehringiz, e`tiboringiz kerak...",
+
+
+
+      "score_range_5_min": "200",
+      "score_range_5_max": "300",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Muloqot",
+
+      "subject_name": "Siz bilan suhbatlashish yoqimlimi?",
+      "subject_image": "drawable/quiz_image10_1",
+      "subject_description": "Shunday kishilar borki, ular bilan bir marta gaplashsangiz, ko`nglingiz suhbatiga oshufta bo`lib qoladi, ohangrabodek o`ziga tortadi. Ayrimlar bilan esa bir necha daqiqalik uchrashuv ham zerikarlidan zerikarli o`tadi. Yana bir toifa borki, qachon gapi tugarkan, deya og`ziga qarab turasiz. Xullas, bu gal sizga taqdim etilayotgan test orqali o`zingizning qanday suhbatdosh ekanligingizni aniqlab olishingiz mumkin.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "6",
+      "score_range_1_image": "drawable/smile_18",
+      "score_range_1_text": "Kamgap va tortinchoqsiz... \n Siz nafaqat notanishlar orasida, balkim yaqinlaringiz davrasida ham ko`pincha mum tishlab o`tirasiz. O`nta gapga bitta javob qaytarishingiz juda kamgap, kamsuqum va tortinchoqligingizdan darak. Bir o`ylab ko`ring, bular zaminida qo`rquv yotmaydimi? O`zingizga bo`lgan ishonchning juda pastligidan 'hozir nimadir desam, menga ishonishadimi? Baribir, qabul qilishmaydi gapimni' degan hadigingiz bormi yo? Yoxud 'och qornim, tinch qulog`im' qabilida har qanday vaziyatda ham tilingizni tishlab o`tiraverasizmi? Mana shu savollarga javob izlab ko`ring va zarurat tug`ilsa, mutaxassis bilan ishlang. Bo`lmasa, siz uchun qaror qabul qilashaverishadi. Tinglash, xo`p deyish yaxshi, o`z fikrini bildirish esa aslo odobsizlik emas.",
+
+      "score_range_2_min": "7",
+      "score_range_2_max": "16",
+      "score_range_2_image": "drawable/smile_28",
+      "score_range_2_text": "E`tiborlisiz... \n To`g`ri, sizni juda kirishimli sanab bo`lmaydi. Ammo suhbat odobi borasida ijobiy xislatlaringiz bor. Ayniqsa, suhbatdoshingizga iltifotli va e`tiborliligingiz, begona davralarda o`zingizni risoladagidek tutishingiz, har neni gap deb og`iz juftlamasligingiz tahsinga sazovar. To`g`ri, kayfiyatingiz yo`q bo`lsa, parinshonxotir bo`lishingiz yoki qovoqlaringizni uyub olishingiz mumkin. Buning uchun o`zingizni ayblamang, soxta mulozamat qo`lingizdan kelmaydi-da. Bitta ma`nisiz gapni aylantirib gapiraveradiganlarga nisbatan shunday qilishga ham majbur bo`lasan kishi. Agar biror yaqiningiz bilan bu holat yuz berayotgan, ya`ni uning gaplari yuragingizga sig`mayotgan bo`lsa, chiroyli qilib keyinroq bu mavzuga qaytishini iltimos qiling.",
+
+      "score_range_3_min": "17",
+      "score_range_3_max": "20",
+      "score_range_3_image": "drawable/smile_35",
+      "score_range_3_text": "Juda kirishimlisiz, ammo... \n Ha, siz juda gapga chechan kishisiz. Ko`pchilik oldida, xoh ular qadrdon bo`lsin, xoh notanish, o`zingizni bemalol tutasiz. Til topishishga ham ustasiz. Siz bilan kishi zerikish nimaligini unutadi. Ba`zida bu yoqimli, biroq har doim emas. Gohida bir gapga tushsangiz, nuqtani unutib qo`yasiz. Ikkinchi tomonga gap bermasligingiz yaxshi odat emas. Bo`lmasa, so`zamolligingiz mahmadonlikka aylanib, odamlar sizdan qochishga joy qidirib qolishlari hech gapmas. Shuning uchun tinglashni, kezi kelganda sukut saqlashni o`rgansangiz, foydadan holi bo`lmaydi. Yana bir maslahat, bahs-munozaralarda kim doirani qattiq chalsa, o`shaning nog`orasiga o`ynab ketmang. Avval o`z fikringizga ega bo`ling, keyin uni bayon eting. Shundagina atrofdagilarda ijobiy taassurot qoldirasiz.",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "f",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Hayot kemasida kimsiz: Kapitanmi yoki Yo‘lovchi?",
+      "subject_image": "drawable/quiz_image1_14",
+      "subject_description": "Berilgan savollarga javob berishingiz va hayot o'zingiz haqingizda bilib oling!",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "49",
+      "score_range_1_image": "drawable/smile_15",
+      "score_range_1_text": "Tashqi kuchlarga tez bo‘ysunasiz. Hayotingizda uchragan muammolarda esa o‘zingizdan boshqa barcha odamlarni ayblashingiz mumkin. Mustaqil hayot siz uchun xomhayol bo‘lib tuyuladi.",
+
+      "score_range_2_min": "50",
+      "score_range_2_max": "99",
+      "score_range_2_image": "drawable/smile_23",
+      "score_range_2_text": "Siz yaxshi 'kapitansiz'. Ammo zarur bo‘lganda rulingizni ishonchli qo‘llarga topshirishingiz ham mumkin. Mulohaza yuritishingiz, fahm-farosatingiz va didingiz hayotingizda hamisha hamrohingizga aylangan.",
+
+      "score_range_3_min": "100",
+      "score_range_3_max": "150",
+      "score_range_3_image": "drawable/smile_34",
+      "score_range_3_text": "Siz o‘z hayotingizni o‘zingiz boshqarasiz, har bir ishingiz uchun o‘zingizda javobgarlik hissini tuyasiz. Qiyinchiliklar paydo bo‘lsa, ularni tushkunlikka tushmasdan yenga olasiz. Sizni bemalol o‘z hayotining 'kapitani' deyish mumkin.",
+
+      "score_range_4_min": "155",
+      "score_range_4_max": "180",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "e",
+
+
+
+      "score_range_5_min": "181",
+      "score_range_5_max": "190",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Kimligingizni bilishni istaysizmi?",
+      "subject_image": "drawable/quiz_image1_15",
+      "subject_description": "U holda quyidagi test-savollariga javob bering. Natija Sizning qanday inson ekanligingizni aniqlab beradi.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "5",
+      "score_range_1_image": "drawable/smile_23",
+      "score_range_1_text": "O‘z hayotingizni mustaqil qura olish va birovning yordamisiz 'oftobga chiqish' salohiyati Sizda ustun. Zaifligingiz - ijtimoiy muloqotdan bebahra va haddan ortiq ichimdagini topligingizda.",
+
+      "score_range_2_min": "6",
+      "score_range_2_max": "10",
+      "score_range_2_image": "drawable/smile_24",
+      "score_range_2_text": "O‘zingizga ishonasiz. Odamlar bilan muloqotga tez kirishasiz. Epchil va odamoxunsiz. Nafaqat, o‘z qulayligingiz haqida o‘ylaysiz, balki yoningizdagi insonga ham yaxshi bo‘lishi uchun harakat qilasiz. Aynan shu xislatingiz uchun hamkasb va do‘stlaringiz Sizni yaxshi ko‘rishadi.",
+
+      "score_range_3_min": "11",
+      "score_range_3_max": "20",
+      "score_range_3_image": "drawable/smile_35",
+      "score_range_3_text": "Odamlar bilan yashay va ishlay olasiz. Siz hayot qaynagan joylarda bo‘lishni, hamisha Sizga ehtiyoj sezishini istaysiz. Zaif tomoningiz — ba’zan o‘z zararingizga bo‘lsa-da, hammaga yoqishga intilishda, boshqalar fikriga qaramligingizdadir.",
+
+      "score_range_4_min": "32",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "e",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Qanday tabiat egasisiz?",
+      "subject_image": "drawable/quiz_image1_16",
+      "subject_description": "O'ylab o'tirmasdan rasmda ilk nima ko'rganingizni tanlang va tabiatingiz haqida bilib oling!",
+
+      "score_range_1_min": "9",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_29",
+      "score_range_1_text": "Odatda krandan suv oqadi. Suv his tuyg'ular ifodasi. Hozirda sizning ichingizda his tuyg'ular avj olmoqda. Tinchlanishingiz va hamma narsani chuqur o'ylab ko'rishingiz kerak. ",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "27",
+      "score_range_2_image": "drawable/smile_39",
+      "score_range_2_text": "Hali ham yosh bolalarcha beg'uborligingiz bor. Siz u qadar insonlarga bog'lanib qolishingiz kerak emas. Bunday bog'lanib qolishingiz ularga ziyon ketirishi mumkin. ",
+
+      "score_range_3_min": "28",
+      "score_range_3_max": "39",
+      "score_range_3_image": "drawable/smile_40",
+      "score_range_3_text": "Rivojlanishga bo'lgan ishtiyoqingiz juda kuchli! Sizdan juda yaxshi inson chiqadi. Oila qurish siz uchun mo'ljallangan.",
+
+      "score_range_4_min": "45",
+      "score_range_4_max": "50",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "e",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Rasm orqali holatingizni aniqlang!",
+      "subject_image": "drawable/quiz_image1_17",
+      "subject_description": "O'ylab o'tirmasdan rasmda ilk nima ko'rganingizni tanlang va holatingiz haqida bilib oling!",
+
+      "score_range_1_min": "5",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_37",
+      "score_range_1_text": "Kuchuk - sodiqlik belgisi hisoblanadi. Bu sizning do'stlarga sodiq ekanligingizni ko'rsatadi",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "24",
+      "score_range_2_image": "drawable/smile_24",
+      "score_range_2_text": "Mushuk - ichki xotirjamlik va rivojlanish belgisi. Ayni hozirgi vaqtda sizning qalbingiz tinch.",
+
+      "score_range_3_min": "25",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_23",
+      "score_range_3_text": "Sichqon - harakatchanlikning belgisi. Ayni shu vaqtda sizning yuragingizga havotir berayotgan sabab bor.",
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "40",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "w",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Muammolaringizni o‘zingiz hal qila olasizmi?",
+      "subject_image": "drawable/quiz_image1_18",
+      "subject_description": "Barchamizning hayotimizda muammolar uchrab turadi. Muammolarni o'zingiz hal qila olasizmi? degan savolga, quyidagi testdan javob olishingiz mumkin!",
+
+      "score_range_1_min": "5",
+      "score_range_1_max": "15",
+      "score_range_1_image": "drawable/smile_37",
+      "score_range_1_text": "Har qanday ko‘ngilsizliklarni, hatto boshingizga tushgan katta baxtsizliklarni ham yengishga qurbingiz yetadi. Chunki siz vaziyatni to‘g‘ri baholay olasiz. Sizda ko‘pchilikda bo‘lgani singari o‘ziga achinish hissi yo‘q. Har narsada muvozanatni ushlab tura olishingizga qoyil qolish mumkin.",
+
+      "score_range_2_min": "16",
+      "score_range_2_max": "26",
+      "score_range_2_image": "drawable/smile_22",
+      "score_range_2_text": "Ko‘pincha taqdiringizdan noliganingiz noligan. Muammolaringiz va yuz bergan ko‘ngilsizliklarda ko‘pincha birovlarni ayblaysiz. Ich-ichingizdan kimdir sizga hamdardlik bildirishini, sizga yordam berishini xohlaysiz. Siz mayda asabbuzarliklardan ko‘z yumib, o‘zingizni qo‘lga olishga harakat qilib ko‘ring.",
+
+      "score_range_3_min": "27",
+      "score_range_3_max": "36",
+      "score_range_3_image": "drawable/smile_11",
+      "score_range_3_text": "Arzimagan ko‘ngilsizliklardan ham tushkunlikka tushib, o‘zingizni yo‘qotib qo‘yishingiz mumkin. Siz hali muammolaringizni o‘zingiz hal qilishga tayyor emassiz. Ozgina sabr, chidam va o‘z kuchingizga ishonch ahvolni tubdan o‘zgartirib yuborishi mumkin.",
+
+      "score_range_4_min": "40",
+      "score_range_4_max": "50",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "w",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Rasmda nimani birinchi ko'rdingiz?",
+      "subject_image": "drawable/quiz_image1_19",
+      "subject_description": "Shunchaki o'ylab o'tirmasdan rasmda nimani birinchi ko'rganingizni tanlang!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_24",
+      "score_range_1_text": "Siz uchun hozir tinchlik vaqti keldi. Hali yaxshi kunlaringiz oldinda! Koinot sizning dam olishingiz kerakligi haqida gapirmoqda.",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "24",
+      "score_range_2_image": "drawable/smile_31",
+      "score_range_2_text": "Yaqinda sizni maroqli sayohat kutishi mumkin. Buning uchun siz harakat qilishingiz kerak.",
+
+      "score_range_3_min": "25",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_15",
+      "score_range_3_text": "Yaqinlaringizga sal e'tiborliroq bo'lishingiz kerak. Ular sizni og'ir paytlarda doim qo'llab quvvatlashadi.",
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_17",
+      "score_range_4_text": "Sizning ichingizni bir muammo tirnayotgan bo'lishi mumkin. Ko'p siqilmang, ba'zida eng yaxshi yechimlar kutilmagan holatlarda topiladi!",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Rasm orqali hayotingiz haqida",
+      "subject_image": "drawable/quiz_image1_20",
+      "subject_description": "Shunchaki o'ylab o'tirmasdan rasmda nimani birinchi ko'rganingizni tanlang!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_40",
+      "score_range_1_text": "Sizda jiddiylik va hayotga tetik qarash hislari kuzatiladi. Shu bilan birga siz juda hayotga qiziquvchansiz!",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "24",
+      "score_range_2_image": "drawable/smile_23",
+      "score_range_2_text": "Hayotingizda siz uchun qiyin bo'lgan vaqtlarning o'tib ketayotdi. Yaqinda hamma harakatlaringizning mevasini olasiz",
+
+      "score_range_3_min": "25",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_25",
+      "score_range_3_text": "Ish bajarishda unchalik shoshilmaysiz. Eski odatlaringizdan voz kechishingiz kerak. Albatta yomon odatlardan",
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_15",
+      "score_range_4_text": "Siz juda sinchkov va hotirjamsiz. Har narsani obdon tekshirasiz. Kichik omadsizliklarga tez - tez uchrab turasiz. Agar hozir hamma ishlaringizga mehr bilan yondashsangiz, tez orada omad sizga kulib boqishi mumkin!",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Qaysi faslni yoqtirasiz?",
+      "subject_image": "drawable/quiz_image1_21",
+      "subject_description": "Qaysi faslni yoqtirishingizga qarab fel atvoringizni aniqlang!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_39",
+      "score_range_1_text": "Bahor oshuftalari juda quvnoq va hayotga chanqoq insonlardir. Xushchaqchaqligi va hazilkashligi sabab do'stlarining hamisha ardog'ida yuradilar. Hayotiy shiorlari: buncha go'zal bu olam, bir qara! Jamoaning joni bo'lish bilan birga, turli hiyla-nayranglarni uyushtirishga ham usta. Bir joyda o'tirishlari qiyin, sayohat jonu dili. Tez oshiq bo'lib qoladilar, ammo ayriliqlarni hech qanday g'azabu nafratsiz, yengil o'tkazadilar. Ularni sodiq do'st sifatida qabul qilmaslik kerak, chunki munosabatlari vaziyat taqozosiga ko'ra o'zgarib turadi. Istalgan daqiqada umuman ko'zdan g'oyib bo'lib, sizni unutib yuborishlari mumkin. Birovga bog'lanib qolish ular uchun qadriyat emas. Vujudida bir vaqtning o'zida ehtiros, xudbinlik, romantika, talabchanlik va beg'amlik jo'sh urgan bu insonlar va'da berishga, ayniqsa, uni bajarmaslikka usta. Lekin ular bilan zerikmaysiz. ",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "24",
+      "score_range_2_image": "drawable/smile_24",
+      "score_range_2_text": "Bu faslni yaxshi ko'radiganlar yetakchilik, ilg'orlik sifatlariga ega. O'zlari yonib, atrofdagilarni ham yondirib yurishadi. Ular bilan muloqot juda qiziqarli kechadi. Hech qachon tushkunlikka tushmaydilar va hamisha nekbin kayfiyatda yuradilar. Bunday kimsalar har doim yangidan-yangi g'oyalar o'ylab topib, amalga oshiradi. Yoz fasli ishtiyoqmandlarining ishdagi o'sishi ham tez sura'tda bo'lib, yuqori martabalarga erishadilar, yaxshi rahbarlik sifatlari bilan ajralib turishadi. Hayotiy shiorlari: qat'iyat va mehnat. Ayni paytda yetarli darajada murosasoz bo'lib, zarur o'rinda yon berishni ham bilishadi. Ularning shaxsiy hayotlari ham havas qilsa arzigulik. Chunki aqlni yo'qotar darajada sevish va juftlariga bir umr sodiq qolishni biladilar. Atrofdagilarning kamchiliklariga nisbatan anchayin sabrli va o'zlariga nisbatan talabchan bo'lgan bunday insonlardan yaxshi do'st chiqadi. Chunki do'stlarini shodlikda ham, g'amda ham yolg'iz qoldirmaydilar. Birgina kamchiliklari bor: haddan ortiq arazchi bo'lganlari holda kechirimli emas. ",
+
+      "score_range_3_min": "25",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_36",
+      "score_range_3_text": "Kuzni sevadiganlar tinchlik, yolg'izlik va osoyishtalikni xush ko'radi. Ko'pchilikni sevmaganlari holda odamlar orasida o'zlarini noqulay his etmaydilar ham. Shunchaki jamoaning ular uchun ahamiyati yo'q. Hayotiy shiori: meni tinch qo'ying! Kayfiyatlari juda beqaror: bir qarasangiz, xandon otib yuradi, bir qarasangiz, hech qanday sababsiz xo'mrayib oladi. Xuddi kuz havosiga o'xshab. Begonalarning nekbinligiyu zafarlari ko'pincha g'ashlariga tegadi. Biroq kuzni yaxshi ko'radigan odamlar juda iste'dodli bo'lishadi. Tasviriy san'at, she'riyat va nasrda katta muvaffaqiyatlarga erishishlari mumkin. Fikrlashlari ham boshqalardan farq qiladi. Muhabbatda juda vafodor: faqat bir insonni sevib o'tadilar. Bir bora va butun umrga! Agar muhabbatiga etisha olmasa o'lguncha azoblanadi va bu azob ularga ilhom manbai bo'lib qoladi. Ular tabiat va jonzotlar bilan muloqot chog'idagina o'zlarini topadilar. Biroq muhabbatiga javob berib, sevib ardoqlaydigan insonni uchratsalar, haqiqiy oilaparvarga aylanadi. ",
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_37",
+      "score_range_4_text": "Bu faslni sevadiganlar, odatda, o'ziga ishongan va mustaqil insonlardir. Hayotiy shiorlari: faqat o'zingga ishon! Katta davralarni xush ko'rishmaydi. Do'stu tanishlari juda oz. Ammo shu ozgina odamlarga qattiq ishonishadi. Ishonmasa, ularni yaqin yo'latmagan bo'lishardi. Juda qat'iyatli bu kimsalar o'z rejalarini birovga oshkor qilmay, yolg'iz amalga oshirish yoki hayot oqimini maqsadlariga bo'ysundirishni biladilar. Qishni yaxshi ko'radigan insonlar kamgap bo'lishadi. So'rasangiz, javob beradilar, ammo o'zlari hech qachon birinchi bo'lib gap qotmaydilar. Pul ishlab topishni bilishadi, qulaylik va farovonlikni qadrlashadi. O'zlariga qadrli insonlar uchun ko'p narsadan voz kechishlari mumkin. Kamchiliklari: xasislik va pismiqlik. Shuningdek, bunday insonlar kechirishni bilmaydi.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "O‘zingizdan mamnunmisiz?",
+      "subject_image": "drawable/quiz_image1_22",
+      "subject_description": "O'zingizdan mamnunmisiz? Buni quyidagi testimizdan bilib olishingiz mumkin!",
+
+      "score_range_1_min": "1",
+      "score_range_1_max": "60",
+      "score_range_1_image": "drawable/smile_18",
+      "score_range_1_text": "O‘zingizdan umuman mamnun emassiz. Biror ishni boshlab, o‘zingizga ishonmaganingiz uchun bu ishni yarim yulda tashlab ketishingiz mumkin. Bundan tashqari, o‘zingizni qulga olib, vaziyatni to‘g‘ri baholay olmaysiz. Atrofga bir nazar tashlang. Axir sizning boshqalardan hech kam joyingiz yuq. O‘zingizga va yaqinlaringizga ishoning va bu kelajakda albatta o‘z mevasini beradi.",
+
+      "score_range_2_min": "61",
+      "score_range_2_max": "120",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Siz o‘z kuchingizga keragicha ishonasiz, lekin o‘zingizdan unchalik mamnun emassiz. Kamdan-kam hollarda qilayotgan ishingizdan (bu ish yaxshi bajarilgan bo‘lsa ham) qoniqasiz.",
+
+      "score_range_3_min": "121",
+      "score_range_3_max": "190",
+      "score_range_3_image": "drawable/smile_38",
+      "score_range_3_text": "Siz o‘zingizdan nihoyatda mamnunsiz. O‘zingizni tanqid qilishni ham, o‘zgalar tanqidini ham yomon ko‘rasiz. Lekin ba’zida yaqinlaringizning sog‘lom tanqidi sizga foyda keltirishi mumkinligini unutmang.",
+
+      "score_range_4_min": "200",
+      "score_range_4_max": "210",
+      "score_range_4_image": "drawable/smile_17",
+      "score_range_4_text": "da",
+
+
+
+      "score_range_5_min": "250",
+      "score_range_5_max": "300",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Rasm orqali hayotingiz haqida",
+      "subject_image": "drawable/quiz_image1_23",
+      "subject_description": "Shunchaki o'ylab o'tirmasdan rasmda  birinchi ko'rganin hayvoningizni tanlang!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_22",
+      "score_range_1_text": ": Bu har kuni ishga borishga norozichilik, tatilga chiqish sog'inchi va tushlik vaqtidagi tanaffus tezroq yaqinlashishiga bo'lgan xohishni anglatadi. Sizga qolsa ish kuni boshlanmay turib tugasa. Ahir vanihoyat uyga qaytib, o'rindiqga qulaygina joylashib sevimli film yoki kitobni qo'lingizga olish imkoniyati paydo bo'ladida.",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "24",
+      "score_range_2_image": "drawable/smile_31",
+      "score_range_2_text": "Ayni kunlarda do'stlaringiz davrasini, qo'llab-quvvatlashlarini his qilmoqdasiz va shunday himoya bilan har qanday muammoni hal qilishga tayyorsiz. Kurashishga tayyor turish yaxshi albatta, lekin vazifaga sovuqqonlik bilan yondashib ko'ringchi, yani muammoni bir o'zingiz yolg'izlikda, hech kimni ko'magisiz hal qila olarmidingiz. Ahir atrofingizdagilarning rejalari tez-tez o'zgarib turadiku. Siz esa buni unutib qo'yasiz, sababi o'zingiz hech qachon hech kimni yordam kerak paytda tashlab ketmagansiz. ",
+
+      "score_range_3_min": "25",
+      "score_range_3_max": "38",
+      "score_range_3_image": "drawable/smile_18",
+      "score_range_3_text": "Ayni kunlarda sizni nimadir uyatda qoldirgan va erkinligingizni chegaralab qo'ygan. Balkim boshliq ortidan tatil so'rab yugurayotgandirsiz, Tinchlaning. Hamma ham dam olishni xohlaydi. O'zingizni qo'lga oling, tanlagan jonvoringizga hos bo'ling, sabr-toqat bilan mehnatkashligingizni ko'rsatib bering. ",
+
+      "score_range_4_min": "39",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_28",
+      "score_range_4_text": "Siz betakrorsiz! Sizga bu haqda ko'p bora aytishgan, shunday emasmi? Sizga o'zingizni yuqorida his qilish uchun yangi soch turmagi yoki buyumlar shart emas. Nigohlaringizning o'zi boshqalarda hurmat va yaxshi ko'rish tuyg'ularini chaqiradi. Va albatta xasadchilar.. Ammo ularni qattiq tanqid qilmang, ahir haqiqatdan ham ba'zan o'zingizni toqat qilib bo'lmas darajada tutasizku. Atrofdagilarga yuqoridan qaramasdan ularni o'zingizga teng ko'ring.",
+
+
+
+      "score_range_5_min": "49",
+      "score_range_5_max": "59",
+      "score_range_5_image": "drawable/score_29",
+      "score_range_5_text": "Siz sevib qolgansiz. Atrofdagi barcha narsa go'zal ko'rinishining sababi shu, hatto shaxsiy hayotidan norozi qiyofadagi odamlar ham hamma hammasi o'ziga hos bo'lib ko'rinmoqda. Bu juda yaxshi davr, iloji boricha uzoqroq cho'zishga xarakat qiling, hech bo'lmasa maosh olguningizcha. Pingvin: Buni qanday amalga oshirdingiz? Ahir bu yerda pingvinning o'zi yo'q! Yana bir marta nazar solib ko'ring.... Baribir pingvinni ko'ryabsizmi? Bunda sizning, do'stlaringiz va birinchi marta uchrashib qolgan odamlaringiz hayratiga sazovor 'Tasavvurga boy ongingiz' sabab. Qoyil"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Qaysi uy sizga maqul?",
+      "subject_image": "drawable/quiz_image1_24",
+      "subject_description": "Quyidagi rasm orqali Aslida qanday inson ekaningizni bilib oling! ",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_24",
+      "score_range_1_text": "Siz shaxsiy yashash tarzingizga va ishingizga butunlay berilgan sodiq insonsiz. Aynan manashu sababga ko‘ra, atrofdagilar sizdan ko‘pincha foydalanmoqchi bo‘ladi. Yolg‘on qurboniga aylanib qolmaslik uchun juda ehtiyotkor bo‘ling.",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "25",
+      "score_range_2_image": "drawable/smile_40",
+      "score_range_2_text": "Siz uchun shaxsiy hayotingiz ham, mutaxassisligingiz ham birdek muhim. Atrofdagilar sizda osonlikcha qiziqish uyg‘ota olmaydi. Barcha diqqat va kuchingizni, yolg‘iz o‘zingizga qaratgansiz, va bu hayotdagi eng yaxshi harakat yo‘nalishi.",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_15",
+      "score_range_3_text": "Siz atrofdagilarni juda talabchanlik bilan muhokama qilasiz, aslida buni o‘zingizdan boshlashingiz kerak edi. Atrofdagilarga o‘zingizni hamfikr qilib ko‘rsatganingiz bilan, aslida hayotda yakkalik yo‘nalishida harakat qilasiz. Atrofdagilarga baho berish, tanqid qilish xarakteringizni tashlasangiz bo‘lar edi. O‘zingizning xaqiqiy yuzingizni yashirishni bas qilib, aslida kim ekaningizni tan olish vaqti keldi.",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_22",
+      "score_range_4_text": "Siz shaxsiy xarakatlaringiz va tashqi tasirlarni, o‘zaro mo‘tadil ushlashni yaxshi uddalayapsiz. Lekin vanihoyat bu soxtalikni bas qilib, yorug‘ yo‘l, maqsad sari qadam qo‘yish vaqti keldi. Agar hozir hayotingizdagi tub burilishni amalga oshira olsangiz, aniq baxtga erishasiz.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Vaqtingizni to‘g‘ri o‘tkazasizmi?",
+      "subject_image": "drawable/quiz_image1_25",
+      "subject_description": "Quyidagi savollarga javob berish orqali, haqiqatda vaqtingizni qanday sarflashingizni bilib oling!",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "6",
+      "score_range_1_image": "drawable/smile_18",
+      "score_range_1_text": "Siz yolg'iz dam olishni, umuman yolg'izlikni yaxshi ko‘rasiz. O‘z qobig‘ingizga shunchalik o‘ralashib qolgansizki, tashqi dunyoda nimalar bo‘layotganligi sizni qiziqtirmaydi. Bu ketishda barcha yaqinlaringiz sizdan yuz o‘girishlari mumkin.",
+
+      "score_range_2_min": "7",
+      "score_range_2_max": "12",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Siz do‘stlaringiz davrasida o‘yin-kulgi qilishni ham, biron-bir sabab yuzasidan xursandchilik qilishni ham yoqtirmaysiz. Siz avvaldan yaxshi rejalashtirilgan va osoyishta dam olish tarafdorisiz.",
+
+      "score_range_3_min": "13",
+      "score_range_3_max": "18",
+      "score_range_3_image": "drawable/smile_24",
+      "score_range_3_text": "Siz uchun o‘yin - kulgidan ko‘ra oila va ish ustun turadi. Agar bu ikkisidan ko‘nglingiz to‘q bo‘lsa, siz bemalol do‘stlaringaz bilan o‘yin-kulgi qilishim mumkin, deb o‘ylaysiz.",
+
+      "score_range_4_min": "19",
+      "score_range_4_max": "22",
+      "score_range_4_image": "drawable/smile_26",
+      "score_range_4_text": "Siz o‘yin-kulgi, xursandchilik qilishning me’yorini bilaman, deb o‘ylaysiz. Ba’zida shunday bo‘ladi ham. Ko‘pincha do‘stlaringiz va yaqinlaringiz bilan uyushtiriladigan ziyofat va kechalardan qolmaslikka harakat qilasiz, lekin ba’zida oshirib yuborganingizni o‘zingiz ham sezmay qolasiz",
+
+
+
+      "score_range_5_min": "23",
+      "score_range_5_max": "30",
+      "score_range_5_image": "drawable/score_22",
+      "score_range_5_text": "Siz dam olishni va o‘yin-kulgu qilishni juda yaxshi ko‘rasiz. Bu holat davom etaversa, sog‘ligingiz va ishxonadagi obro‘yingizga putur yetishi mumkin. Bundan tashqari, hamyoningizning yengillashib qolishi — haddan tashqari ziyofatlaru kechalarga berilishingiz tufaylidir. Bu kabi «yurish»laringizni sal kamaytirsangiz bo‘larmidi?! O‘ylab ko‘ring!"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Smartfonda matnni qanday yozasiz?",
+      "subject_image": "drawable/quiz_image1_26",
+      "subject_description": "Biz atrofda tez-tez nimani ko’rib turamiz? To’g’ri! Smartfonda matn kiritishni. Fiziognomika yuzini ekranga qaratgan odam oldida kuchsizdir. Lekin qo’llar ko’z o’ngida qolaveradi. Sizga ushbu juda oddiy testdan o’tishni va smartfonda yozish uslubingizni aniq bilishingizni tavsiya qilamiz. ",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_38",
+      "score_range_1_text": "Idealogik yetakchi. Sizni janjalga undash uchun juda ko'p harakat qilish kerak. Siz nima istayotganingizni va uni qanday qilib qo'lga kiritishni aniq bilasiz. Agar siz har kimga foyda keltirishi mumkin deb hisoblasangiz, juda ko'p ishlardan qo'rqmaysiz. Sizning fikringizcha, umumiy yaxshilik har doim shaxsiydan yuqoridir. Sizning yetakchilik sifatingiz uchun atrofdagilar hurmat qilishadi va qadrlashadi.",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "25",
+      "score_range_2_image": "drawable/smile_37",
+      "score_range_2_text": "Kompaniya ruhi. Sizning do'stona va ijobiy munosabatingiz boshqalarning yopiq eshiklarni ochishga yordam beradi. Siz uchun ijtimoiy hayot juda muhim. Siz tezda kontaktga borasiz va deyarli har bir yangi do'stni sehrlaysiz. To'g'ri, ba'zan siz o'zingizga ko’p ishonib qolasiz. Biroq, bu tushunarli. Har kun shaxsiy quyosh bilan yoritilganda, qobiliyatlaringizni qadrlash qiyin emas. ",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_24",
+      "score_range_3_text": "G’oyalar generatori. Siz yorqin, lekin bir oz ziddiyatli odamsiz. Siz muammolarni hal qilishda noananaviy yondoshasiz va bir daqiqada millionlab yangi fikrlaringiz bor. Sizning quvvatingiz to'lqinlanmoqda, lekin ... uzoq emas. Doimiy ishdan zerikib qolsangiz, shunda siz zerikarli va passiv ijrochiga aylanib qolasiz. Sizning baxtingiz uchun kerak bo'lgan narsa – bu doimiy o’zgarib turadigan sahna va yangi taassurotlar oqimining doimiy ravishda o'zgarishidir. ",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_28",
+      "score_range_4_text": "Empat va estet. Siz atrofdagi dunyo go'zalligi va san'at bilimdonlaridan sehrlanib qolgan insonsiz. Lekin siz insonlar bilan qiyin va uzoq vaqt munosabat qurasiz. Siz tashqi ko'rinishga ega bo’lgan his-tuyg'ulari oldini olishga harakat qilasiz, ammo har bir haqoratli yoki noqulay vaziyatni kuchli qabul qilasiz. Sizda ko’p do’st bor deb aytish qiyin, lekin bir necha tanlangan, kuchli va ishonchga asoslangan munosabat bor. Sizni bolalar va hayvonlar juda yaxshi ko’rishadi.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Shaxsiy xarakter",
+
+      "subject_name": "Qanday xarakter egasisiz?",
+      "subject_image": "drawable/quiz_image1_27",
+      "subject_description": "Test 94% to'g'ri. Ko'zingizga 1-tashlangan obyektni tanlab javoblarni o'qing:",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_18",
+      "score_range_1_text": "Hamma narsani yuragingizga yaqin olaverasiz. Biroz sovuqqonroq bo'lishingiz kerak, bo'lmasa asab tolalaringiz deb bir qancha surunkali kasalliklar orttirib olasiz. ",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "25",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Siz har doim, har joyda xaqiqatni oxirigacha kovlab topadigan shaxssiz. Bu judayam yaxshi fazilat. Eng muhimi har narsadan kamchilik topadigan noshukr insonga aylanib qolmasangiz bo'lgani",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_38",
+      "score_range_3_text": "Siz aktiv, pozitiv insonsiz! Do'st va tanishlaringiz juda ko'p va umuman siz davralarning qalbisiz. Bu juda yaxshi. Har doim shundayligingizcha qoling! ",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_23",
+      "score_range_4_text": "Sizda oxirgi payt hammasi huddi aylana atrofida aylanayotgandek. Va ba'zan huddi boshqa yo'lingiz yo'qdek ko'rinadi. Ammo shu aylana yani bir xillikdan chetga bir qadam qo'ysangiz, dunyoni o'zgacha nigoh bilan ko'rasiz. O'zgarishlardan qo'rqmang va hammasini uddasidan chiqasiz.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Ish va karera",
+
+      "subject_name": "Sizni nima kutmoqda?",
+      "subject_image": "drawable/quiz_image3_4",
+      "subject_description": "Rasmda ilk nimani ko'rganingizni o'ylang va javobini bilib oling!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_22",
+      "score_range_1_text": ":Ishdagi uzoq muvaffaqiyatdan so’ng siz kutilmaganda o’zingiz uchun behuda va foydasiz ishni qilasiz. ",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "25",
+      "score_range_2_image": "drawable/smile_31",
+      "score_range_2_text": "Mo’ljallagan katta pul yoki qimmatbaho narsangizni topa olasiz. Uzoq kutib yurgan narsangizni ham topa olasiz",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_38",
+      "score_range_3_text": "Sog’lig’ingiz va omadingiz bor",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_34",
+      "score_range_4_text": "Qiyinchiliklarni tezda bartaraf qilib omadga erisha olasiz.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Ish va karera",
+
+      "subject_name": "Siz qanday haydovchisiz?",
+      "subject_image": "drawable/quiz_image3_5",
+      "subject_description": "Agar siz piyoda yursangiz, quyidagi test savollari siz uchun emas. Bu testdan faqat qanday haydovchi ekanligingizni bilib olish uchun foydalanishingiz mumkin.",
+
+      "score_range_1_min": "1",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_22",
+      "score_range_1_text": "Mashina haydash malakangiz va bu boradagi bilimlaringizda muammolaringiz bor. Siz hali juda ko‘p narsani o‘rganishingiz kerak. Keyingi safar mashina haydashingizdan oldin o‘zingizning xavfsizligingizni o‘ylamasangiz ham, bilimsizligingiz tufayli aziyat chekishi mumkin bo‘lgan odamlarni o‘ylasangiz yaxshi bo‘lardi",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "27",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Sizning yaxshi haydovchi ekanligingiz ko‘rinib turibdi, lekin sizni har doim ham yo‘l harakati qoidalariga amal qiluvchilar sirasiga kiritib bo‘lmaydi. Agar biror joyga shoshayotgan bo‘lsangiz, yo‘l harakati qoidalarini bemalol buzishingiz mumkin. Agar bu qoidalarni bilmasangiz, o‘rganishingiz, asosiysi, ularga amal qilishingiz kerak.",
+
+      "score_range_3_min": "28",
+      "score_range_3_max": "40",
+      "score_range_3_image": "drawable/smile_40",
+      "score_range_3_text": "Shubhasiz, siz juda yaxshi haydovchisiz. Siz og'ir yo‘l-transport hodisasi yuz berganda ham hamkasblaringizga malakali yordam bera olasiz. Agar hamma haydovchilar ham sizdek bo‘lganlarida yo‘l-transport hodisalari soni kamroq yuz bergan bo‘lardi.",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Ish va karera",
+
+      "subject_name": "Reja asosida ish ko‘rishni yoqtirasizmi?",
+      "subject_image": "drawable/quiz_image3_6",
+      "subject_description": "Nafaqat ishda, balki uyda, oilada ham aniq hisob-kitoblar asosida ish ko‘radigan odamlarga ko‘pchiligimiz havas bilan qaraymiz. Ular hamma narsani o‘z vaqtida, joy-joyida bajaradilar, qachon uyiga borsangiz, mehmondorchilikni o‘rniga qo‘yib kutib oladilar, dasturxon ham, taom ham bir zumda muhayyo etiladi. Bu ularning fazilatlaridan biri, xolos. Ular yana juda ko‘p ishlarni aniq rejalar asosida bajaradilar. Xo‘sh, siz ham ana shunday hisob-kitobli va talabchanmisiz? Quyidagi test yordamida o‘zingizni sinab ko‘rishingiz mumkin.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "3",
+      "score_range_1_image": "drawable/smile_23",
+      "score_range_1_text": "Siz oqim bo‘ylab suzadigan, vaziyatga, sharoitga qarab ish tutadigan insonlar toifasiga kirasiz. Siz reja va hisob-kitoblarni, biror ishni avvaddan rejalashtirib amalga oshirishni umuman yoqtirmaysiz.",
+
+      "score_range_2_min": "4",
+      "score_range_2_max": "8",
+      "score_range_2_image": "drawable/smile_31",
+      "score_range_2_text": "Siz qat’iy reja asosida ish olib borishni va atrofingizdagilarning ham shunday ish tutishlarini istaysiz. Bu hammaga ham yoqavermaydi, lekin maslahat olish uchun ular aynan sizning oldingizga keladilar.",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_21",
+      "score_range_3_text": "e",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "e",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Ish va karera",
+
+      "subject_name": "Rasm orqali ishlaringiz haqida",
+      "subject_image": "drawable/quiz_image3_7",
+      "subject_description": "Rasmga yaxshilab qarang va o'ylab o'tirmasdan ilk nima ko'ringanini tanlang. Natijada o'zingiz haqingizda qo'shimcha ma'lumotga ega bo'lishingiz mumkin!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_28",
+      "score_range_1_text": "Quyoshdan to‘suvchi soyabon - hukmronlik va podsholik timsoli. Yana, soyabon osmon va yerning bog‘lovchisi hisoblanib, Siz o‘zingizni bu dunyo, odamlar, ommadan himoya qilayotganingizni bildiradi. Siz samoga yuz tutgansiz. Siz uchun osmon dam olish va yangi g‘oyalarni amalga oshirishda katta ahamiyatga ega.",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "25",
+      "score_range_2_image": "drawable/smile_37",
+      "score_range_2_text": "Qandaydir makkorlik, fikr yuritish, maqsadga erishishda qilinayotgan harakat. Muhimi maqsad o‘z qadr qimmatini yo‘qotmasligi uchun haddan oshmaslik! Undan tashqari sizni qiziqarli o‘zgarishlar kutib turibdi. Nihoyasida siz kuchga ega bo‘lasiz va maqsadingizga erishasiz.",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_40",
+      "score_range_3_text": "Uyingizga yaxshiliklarni oqib kirishi. Siz maqsadi katta va aniq, porloq kelajakka ega odamsiz. ",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_11",
+      "score_range_4_text": "Tutun tanani tark etgan ruhga o‘xshaydi. Siz ish bilan qattiq bandsiz, ham ruhan ham jismonan dam olishingiz kerak. Sayohatga, hordiq chiqarishga shoshiling. O‘zingizni ko‘p urintirmang. O‘zingizni va sog‘lig‘ingizni o‘ylang. Vaqtingizni ko‘p qismini oilangiz va yaqinlaringiz bilan o‘tkazing.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Oila",
+
+      "subject_name": "Oilaviy munosabatlaringizni qanday baholaysiz?",
+      "subject_image": "drawable/quiz_image4_3",
+      "subject_description": "Ushbu test savollariga er va xotin baravariga javob berishlari kerak.",
+
+      "score_range_1_min": "1",
+      "score_range_1_max": "15",
+      "score_range_1_image": "drawable/smile_28",
+      "score_range_1_text": "Siz bir-biringizga o‘z muammolaringizni va sizni tashvishlantirayotgan mavzular haqida bemalol gapira olasiz. Shu bilan birga bir-biringizni diqqat bilan eshitishni ham bilasiz. Siz muammolaringizni boshqalar (do‘stlaringiz, yaqinlaringiz) bilan muhokama qilishni yoqtirmaysiz. Chunki ulardan ko‘ra eringiz (xotiningiz) sizni ko‘proq tushunishiga ishonasiz.",
+
+      "score_range_2_min": "15",
+      "score_range_2_max": "30",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Sizning oilangizda ba’zi narsalar muhokama qilinadi, ko‘pgina muammolarni bir-biringizdan ayri holda hal etasiz. Bunday oilada ishonch va samimiyat asta-sekinlik bilan yuqolib borishi mumkin. Axir har bir odam yonida uni tushunadigan va kerak paytda unga dalda bo‘la oladigan inson bo‘lishini xohlaydi. Bunday insonni ko‘pchilik turmush o‘rtog‘i timsolida ko‘rishni istaydi. Topa olmagach esa, oila tashqarisidan izlashga harakat qiladi. ",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_21",
+      "score_range_3_text": "",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Oila",
+
+      "subject_name": "Qaysi oila baxtli?",
+      "subject_image": "drawable/quiz_image4_4",
+      "subject_description": "Birinchi tasurot aldamchi bo'ladi! Bazi insonlar, o'zlari taniydigan juftliklariga qarab, ular ideal va o'rnak bo'lsa arziydigan oila deb hisoblashadi, ammo xulosa aslida butunlay noto'g'ri bo'lishi mumkin. ",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_29",
+      "score_range_1_text": "Siz, bir umrlik oilaviy qadriyatlar mavjudligiga ishonasiz. Nuroniy juftliklar siz uchun - muhabbat va vafodorlik bardavomligidan darak beruvchi ajoyib namuna hisoblanadi. Siz aynan mana shunday oila haqida orzu qilasiz! Vaqtinchalik va qisqa muddatli munosabatlarni qadrlamaysiz. Oilangiz uchun qo'lingizdan kelganini qilasiz. ",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "25",
+      "score_range_2_image": "drawable/smile_39",
+      "score_range_2_text": ": Siz, hech qachon tuyg'ular ortidan quvmagansiz. Sizningcha, muhabbatning chegarasiz va so'qir tuyg'ularidan ko'ra, qulaylik muhimroq. Hayolingizga kelganini, hohlaganingizni qilish imkoniyatiga ega, chegarasiz, erkin munosabatlarni hohlaysiz. ",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_23",
+      "score_range_3_text": "Quvnoq va majburiyatlarsiz qurilgan munosabatlarni hohlaysiz, ya'ni juftlikning ikkalasi ham birgalikda va yakka holda ham mustaqil o'sish, rivojlanish imkoniyatiga ega bo'lsa siz uchun ayni muddao. Sevimli inson - nafaqat yaxshi juft, balki har qanday mavzuda gaplasha oladigan yaqin do'st ham bo'lishi kerak ekanini yaxshi tushinasiz. Faqatgina mana shunday munosabatlarda siz o'zingizni yetarli darajada qulay his qilasiz! ",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_15",
+      "score_range_4_text": ": Siz, 'nusxasifat' hammanikiga o'xshagan oddiy munosabatlar tarafdorisiz. Juftingizga nisbatan hech qanday yuqori talablar qo'ymaysiz. U vafodor, ishlaydigan va meyor darajasida sizga vaqt ajrata oladigan inson bo'lsa bas. Siz, tuyg'ularga tayanib yashovchi insonlardan emassiz, lekin oila qurish - siz uchun hayotning asosiy bo'limlaridan biridir. !!! Yodingizda bo'lsin, siz tomondan amalga oshirilgan har bir tanlov qandaydir ahamiyatga ega. Nimadir qilishdan oldin doimo o'ylang! Do'stlarga ulashing.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Juftingiz",
+
+      "subject_name": "Eringizni yaxshi bilasizmi?",
+      "subject_image": "drawable/quiz_image6_5",
+      "subject_description": "Muhtarama ayollar, savollarga javob berib, eringizni qay darajada bilishingizni bilib oling!",
+
+      "score_range_1_min": "1",
+      "score_range_1_max": "20",
+      "score_range_1_image": "drawable/smile_22",
+      "score_range_1_text": "Eringizning fe’lini yaxshi bilmaysiz. U bilan ko‘proq muloqot qilishingiz kerak.",
+
+      "score_range_2_min": "21",
+      "score_range_2_max": "28",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Eringizning fe’lini bilasiz, lekin uning qiziqishlari, orzu-umidlari, maqsadi, kelajakdagi rejalari bilan umuman qiziqmaysiz.",
+
+      "score_range_3_min": "29",
+      "score_range_3_max": "35",
+      "score_range_3_image": "drawable/smile_38",
+      "score_range_3_text": "Yaxshi natija. Turmush o‘rtog‘ingizning ko‘pgina jihatlari sizga ayon. Lekin bari bir uni har tomonlama bilaman, deb aytolmaysiz. Uning shaxsiy jihatlariga e’tibor bersangiz foydadan xoli bo‘lmaydi.",
+
+      "score_range_4_min": "36",
+      "score_range_4_max": "50",
+      "score_range_4_image": "drawable/smile_29",
+      "score_range_4_text": "Sizni tabriklasak bo‘ladi. Siz haqiqatan ham turmush o‘rtog‘ingizning fe’lini, unga nima yoqishini-yu, nima yoqmasligini bilasiz. Bu esa uzoq baxtli oilaviy hayotning garovidir",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Juftingiz",
+
+      "subject_name": "Siz qanday umr yo‘ldoshsiz?(erkaklar uchun)",
+      "subject_image": "drawable/quiz_image6_6",
+      "subject_description": "Erkaklarni oilaning ustuni deyishadi. Har doim oilasini e’zozlagan, ayolini hurmat qilgan erkaklar hayotda yutadilar. Mag‘lubiyatlari nisbatan kam bo‘ladi. Xo‘sh, siz qanday oila boshlig‘isiz? O‘zingizni qanday umr yo‘ldoshi ekanligingizni, oilada, farzandlaringiz oldidagi burchlaringizni qanday bajarayotganingizni bilmoqchi bo‘lsangiz, quyidagi test yordamida o‘zingizni sinab ko‘ring.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "43",
+      "score_range_1_image": "drawable/smile_11",
+      "score_range_1_text": "Sizni aslida qandaydir rishtalar bog‘lab turibdi: odat, farzandlar yoki umumiy mulkmi? Shunga aniqlik kiriting. O‘zingizga nisbatan talabchan bo‘lish vaqti yetmadimikin? Balki rafiqangizga ko‘proq vaqt ajratib, u bilan qiziqishingiz lozimdir? Shu vaqtgacha parokanda oilaviy muhitingizga odatiy bir hol deb kelgan bo‘lsangiz, endi g‘ayratingizni ayamang. Balki shundagina siz oilangizda deyarli yetishmayotgan fayzli, iliq muhitni paydo qilishga erisharsiz",
+
+      "score_range_2_min": "44",
+      "score_range_2_max": "85",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "Sizning oilaviy munosabatlaringiz o‘zaro mutanosiblikda. Siz bolalarni voyaga yetkazishda, uy-ro'zg‘or ishlarini yuritishda o‘zingizning hissangizni qo‘shayapsiz, Lekin rafiqangizning shaxsiyati bilan yetarlicha qiziqmaysiz. U bilan bo‘lgan munosabatlarda ayrim xatolarga yo‘l qo'yyapsiz. Bu haqda o‘ylab ko‘rishingizni maslahat beramiz",
+
+      "score_range_3_min": "86",
+      "score_range_3_max": "130",
+      "score_range_3_image": "drawable/smile_38",
+      "score_range_3_text": "Sizning nikohingiz bir-birini sevuvchi ikki teng huquqli yurak ittifoqidir. Sizlarni do‘stona munosabat ham, umumiy maqsadlar ham birlashtiradi. Siz umr yuldoshingizga ko‘p narsa berasiz va odatda undan nimani kutsangiz shuni olasiz.",
+
+      "score_range_4_min": "135",
+      "score_range_4_max": "140",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Biznes",
+
+      "subject_name": "Sizdan qanday tadbirkor chiqadi?",
+      "subject_image": "drawable/quiz_image7_1",
+      "subject_description": "Ushbu psixologik test orqali siz tadbirkor bo'la olasizmi yoki yo'qmi bilib olishingiz mumkin. Marhamat xamma savollarga faqat to'g'ri javob bering, shundagina aniq natija chiqadi",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "28",
+      "score_range_1_image": "drawable/smile_22",
+      "score_range_1_text": "Juda past natija. Siz tadbirkorlikdan ko’ra boshqa kasbni tanlasangiz yaxshiroq bo’lardi. Chunki tadbirkorlik faoliyati bilan shug’ullanish uchun insonga mablag’ bilan bir qatorda qobiliyat ham kerak",
+
+      "score_range_2_min": "29",
+      "score_range_2_max": "59",
+      "score_range_2_image": "drawable/smile_15",
+      "score_range_2_text": "O’rtacha natija. Agar tadbirkorlik bilan shug’ullanishga astoydil bel bog’lagan bo’lsangiz, tinmay o’rganishingiz va izlanishingiz kerak. Sizda buning uchun uzoq uquv va malaka yetishmaydi. Qat’iyatingiz va mustahkam irodangiz esa bu borada sizga asqotishi mumkin.",
+
+      "score_range_3_min": "60",
+      "score_range_3_max": "78",
+      "score_range_3_image": "drawable/smile_24",
+      "score_range_3_text": "Siz aynan tadbirkorlik bilan shug’ulanish uchun yaratilgandeksiz. Hisob-kitob va reja asosida ishlashni yaxshi o’zlashtirib olgansiz. Bundan tashqari bozor talablarini ichki hissiyotingiz bilan sezasiz. Bu esa sizga kamdan-kam hollarda pand beradi.",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Sog'lik",
+
+      "subject_name": "To‘g‘ri ovqatlanasizmi?",
+      "subject_image": "drawable/quiz_image9_1",
+      "subject_description": "Ko'pgina olim va professorlarning fikriga qaraganda, to'g'ri ovqatlanish inson salomatligiga katta ta'sir ko'rsatuvchi omillardan biri ekan, ya'ni to'g'ri ovqatlanish inson umrining uzayishiga sabab bo'lar ekan. Ho'sh?! Siz to'g'ri ovqatlanasizmi? Quyidagi testlarimizga to'g'ri va aniq javob berib, bu savolning javobini bilib oling!",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "13",
+      "score_range_1_image": "drawable/smile_12",
+      "score_range_1_text": "Parxezingizni o‘zgartirish kerak. Bunday parxez bilan sog‘lig‘ingizga zarar yetkazib qo‘yishingiz mumkin.",
+
+      "score_range_2_min": "14",
+      "score_range_2_max": "18",
+      "score_range_2_image": "drawable/smile_22",
+      "score_range_2_text": "Parxezni yaxshilash lozim.",
+
+      "score_range_3_min": "19",
+      "score_range_3_max": "23",
+      "score_range_3_image": "drawable/smile_15",
+      "score_range_3_text": "Yaxshi parxez.",
+
+      "score_range_4_min": "24",
+      "score_range_4_max": "26",
+      "score_range_4_image": "drawable/smile_24",
+      "score_range_4_text": "A’lo darajadagi parxez.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Sog'lik",
+
+      "subject_name": "Test orqali yurakni tekshirish!",
+      "subject_image": "drawable/quiz_image9_2",
+      "subject_description": "Quyidagi test orqali organizmingizda kuzatilayotgan o`zgarishlarga aniqlik kiritishingiz mumkin.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "12",
+      "score_range_1_image": "drawable/smile_24",
+      "score_range_1_text": "Yurak qon-tomir kasalliklariga chalinishingiz ehtimoli kam, deyish mumkin. Shunday bo`lsa-da, 35 yoshdan so`ng yiliga bir marotaba shifokor ko`rigidan o`tib turing.",
+
+      "score_range_2_min": "13",
+      "score_range_2_max": "100",
+      "score_range_2_image": "drawable/smile_26",
+      "score_range_2_text": "Kichik bezovtaliklar organizmingizdagi ogohlantiruv belgisi bo`lishi ham mumkin. Har ehtimolga qarshi kichik bezovtaliklarda ham mutaxassisga uchrang.",
+
+      "score_range_3_min": "101",
+      "score_range_3_max": "110",
+      "score_range_3_image": "drawable/smile_21",
+      "score_range_3_text": "d",
+
+      "score_range_4_min": "111",
+      "score_range_4_max": "115",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "d",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Muloqot",
+
+      "subject_name": "Odamlarga baho bera olasizmi?",
+      "subject_image": "drawable/quiz_image10_2",
+      "subject_description": "Har birimizning qachondir, kimgadir baho berishimizga to‘g‘ri keladi. Lekin har doim ham kishilarga xolisona baho bera olarmikinmiz? To‘g‘ri, bu inson psixologiyasini o‘rganuvchi mutaxassislarning ishi. Lekin siz ham psixologiyadan qanchalik xabaringiz borligini sinab ko‘rishingiz mumkin. Buning uchun quyidagi test savollariga javob berib, ballaringizni jamlashingiz, so‘ngra natijaga e’tiboringizni qaratishingiz lozim bo‘ladi.",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "15",
+      "score_range_1_image": "drawable/smile_13",
+      "score_range_1_text": "Siz odamlarga haddan tashqari ishonasiz, ularni faqat yurish-turishlari va ko‘rinishlaridan baholashga o‘rganib qolgansiz. Noto‘g‘ri baho berganingizni bilganingizda esa, qattiq afsuslanasiz va ulardan xafa bo‘lasiz. Sizning ketma-ket qilayotgan xatolaringiz insonlarga to‘g‘ri baho bera olmaganingizqandir.",
+
+      "score_range_2_min": "16",
+      "score_range_2_max": "25",
+      "score_range_2_image": "drawable/smile_22",
+      "score_range_2_text": "Ba’zida odamlarga to‘g‘ri baho bera olasiz, lekin ko‘proq boshqalarning fikrlariga quloq solasiz. Shu bilan fikringizning to‘g‘riligiga shubhalanasiz. Natijada esa shaxsiy fikringizni umuman ayta olmaysiz",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "34",
+      "score_range_3_image": "drawable/smile_15",
+      "score_range_3_text": "Siz odamlarni va vaziyatni to'g‘ri, xolisona baholay olasiz. Insonlarning fe’l-atvorlari siz uchun o‘qigan kitobingizdek ravshan, lekin shunday bo‘lsa ham fikringizni yagona to‘g‘ri fikr deb hisoblamaysiz. Agar fikringiz noto‘tri bo‘lsa buni tan olishdan qo'rqmaysiz. Bu rahbarlar va o'qituvchilarning yaxshi jihatlaridan biridir. Sizdan yaxshi psixolog-mutaxassis chiqishi mumkin.",
+
+      "score_range_4_min": "35",
+      "score_range_4_max": "50",
+      "score_range_4_image": "drawable/smile_23",
+      "score_range_4_text": "Siz boshqalarga juda osonlik bilan baho bera olasiz. Bir nazar tashlashingiz bilanoq kishilarning fe’l-atvorini, bilib olish qobiliyatingiz tufayli ularga o‘z fikrlaringizni bemalol gapiraverasiz. Shunday bo‘lsa ham o‘ylab ko'ring, birinchi marta ko‘rib turgan odamingizga u haqdagi fikrlaringizni aytishingiz o‘rinlimikan? Yoki odamlarga bir zumda baho bera olishingizni namoyon qilmoqchimisiz ? Bu bilan hech kim hech qachon sizni laqillata olmasligini isbotlay olarmikinsiz? Bu oqilona fikr emas.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Muloqot",
+
+      "subject_name": "Siz qanday suhbatdoshsiz?",
+      "subject_image": "drawable/quiz_image10_3",
+      "subject_description": "Savollarga javob bering va siz qanday suhbatdosh ekanligingizmi bilib oling!",
+
+      "score_range_1_min": "0",
+      "score_range_1_max": "3",
+      "score_range_1_image": "drawable/smile_27",
+      "score_range_1_text": "Siz og‘zingizdan bir so‘zni ham sug‘urib bo‘lmas darajada kamgap yoki to‘xtatib bo‘lmaydigan darajada sergapsiz. Gap shundaki, qanday bo‘lishingizdan qat'iy nazar, siz bilan gaplashish juda qiyin. Bu haqda o‘ylab ko‘rish uchun esa sizda hali vaqt bor.",
+
+      "score_range_2_min": "4",
+      "score_range_2_max": "7",
+      "score_range_2_image": "drawable/smile_28",
+      "score_range_2_text": "Gapga juda chechan bo‘lmasangiz ham sizni dilkash suhbatdosh deb atash mumkin. Kayfiyatingiz yo‘q bo‘lishiga qaramay, suhbatdoshingizni eshita olasiz",
+
+      "score_range_3_min": "8",
+      "score_range_3_max": "9",
+      "score_range_3_image": "drawable/smile_36",
+      "score_range_3_text": "Siz notanish odamlarni ham tezda suhbatga jalb qila olasiz. Do‘stlaringiz esa siz bilan fikrlashishni ham, maslahatlashishni ham yaxshi ko‘rishadi. Bundan tapqari, siz turli vaziyatlarda o‘zingizni tuta bilasiz. Bu esa, hammaning ham qo‘lidan kelavermaydi",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Intellekt",
+
+      "subject_name": "Suratda tasavvur",
+      "subject_image": "drawable/quiz_image11_1",
+      "subject_description": "Tasavurringiz haqida bilishni hohlaysizmi? Unda ushbu testimiz siz uchun!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_36",
+      "score_range_1_text": "Sizda tasavvur qilish xususiyati juda yaxshi rivojlangan. U sizga qiyin vaziyatlarda juda yaxshi yordam bergan. Hoynaxoy Siz ijodkor odamsiz va san’at, sartaroshlik sohasida yoxud stilist bo‘lib ishlaysiz. Agar sizning kasbingiz ijodkorlikdan uzoq bo‘lsa, bilingki sizning ochilmagan qirralaringiz bor va bunga ahamiyat berib rivojlantirish kerak. O‘ylab ko‘ring, bolaligingizda nima qilishni yaxshi ko‘rardingiz? Rasm chizishnimi yoki qo‘shiq aytishnimi? Har qanday holatda ham qo‘shimcha xobbi sizga xalaqit qilmaydi, bu haqida bir o‘ylab ko‘ring. ",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "25",
+      "score_range_2_image": "drawable/smile_37",
+      "score_range_2_text": "Sizda tasavvur qilish xususiyati yaxshi rivojlangan, shu bilan birgalikda vaziyatga mantiqan baho bera olasiz. Avvalambor siz boricha ko‘rasiz. Siz teran fikrlaydigan shaxssiz. Sizdan qo‘rqmasdan maslahat olsa bo‘ladi. Sovuqqonlik va teran fikrlilik sizga eng qiyin holatlarda ham zo‘r yordam beradi. Siz hech qachon vahima qilmasdan og‘ir bosiqlik bilan boshqalarni ham tinchlantira olasiz. Odamlar sizni kuchli shaxs deb biladilar va sizga intiladilar. ",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_24",
+      "score_range_3_text": "Arzimasdek tuyilgan barcha detallarigacha e’tibor berasiz. Sizdan hech qanday sirni berkitib bo‘lmaydi. Shu bilan birga siz atrofingizdagilarni kayfiyatini sezasiz. Shu boisdan ulardan muhim xabarni bilib olib xohlagan vaqtingizda, o‘zingizga yoqqan usulda va maqsadda ularga murojaat qilasiz. Sizdan yaxshi buxgalter, auditor, moliyaviy konsultant, kassir chiqadi. Umuman siz diqqat va hushyorlik talab qilinadigan sohalarda omadli ishlaysiz. ",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_22",
+      "score_range_4_text": "Agar suratga qarab hech narsa ko‘rmagan bo‘lsangiz demak siz dam olishingiz kerak. Siz charchagansiz va qiyin masalalarni hal qilolmaysiz. Siz uchun vaziyatga tashqaridan baho berish oson emas. Siz hammasini to‘g‘ri qabul qilasiz. Dam oling. Tabiat qo‘ynida, sokinlikda o‘tkazgan vaqtingiz sizga juda yordam beradi va siz o‘zingizda yangi cho‘qqilarni zabt etishga kuch topasiz.",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    },
+    {
+      "categoryName": "Intellekt",
+
+      "subject_name": "Sizning e'tiboringiz!",
+      "subject_image": "drawable/quiz_image11_2",
+      "subject_description": "Quyidagi test orqali siz o'z e'tiboringiz haqida qisqacha bilib olishingiz mumkin!",
+
+      "score_range_1_min": "10",
+      "score_range_1_max": "17",
+      "score_range_1_image": "drawable/smile_31",
+      "score_range_1_text": "Agar rasmda qizil labli ayolni ko'rgan bo'lsangiz, bu, siz e'tiboringizni katta narsalarga qaratishingizdan dalolat beradi",
+
+      "score_range_2_min": "18",
+      "score_range_2_max": "25",
+      "score_range_2_image": "drawable/smile_24",
+      "score_range_2_text": "Agar xo'rozni yoki tovuqni ko'rgan bo'lsangiz, demak siz mayda-chuyda narsalarga ko'proq e'tibor qaratasiz.",
+
+      "score_range_3_min": "26",
+      "score_range_3_max": "37",
+      "score_range_3_image": "drawable/smile_21",
+      "score_range_3_text": "d",
+
+      "score_range_4_min": "38",
+      "score_range_4_max": "48",
+      "score_range_4_image": "drawable/smile_5",
+      "score_range_4_text": "w",
+
+
+
+      "score_range_5_min": "151",
+      "score_range_5_max": "155",
+      "score_range_5_image": "drawable/score_1",
+      "score_range_5_text": "You are very perfect person"
+    }
+  ]
+}

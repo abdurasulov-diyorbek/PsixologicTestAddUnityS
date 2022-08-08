@@ -1,0 +1,63 @@
+apply plugin: 'com.android.application'
+
+
+
+android {
+    compileSdkVersion 30
+
+    defaultConfig {
+        applicationId "com.siz_kimsiz.inson_psixologiyasi"
+        minSdkVersion 19
+        targetSdkVersion 30
+        versionCode 12
+        versionName "12.0"
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        manifestPlaceholders = [onesignal_app_id: "822bb080-8196-4be1-8471-970a54ad900b",
+                                // Project number pulled from dashboard, local value is ignored.
+                                onesignal_google_project_number: "REMOTE"]
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+android {
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+}
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+//    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {    exclude group: 'com.android.support', module: 'support-annotations'  })
+
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+
+
+    implementation 'com.google.android.material:material:1.2.1'
+   // implementation 'com.google.android.material:material:1.0.0'
+
+  /*  implementation 'com.google.android.gms:play-services-ads:19.1.0'
+    implementation 'com.google.android.gms:play-services-gcm:17.0.0'*/
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.google.firebase:firebase-core:17.4.1'
+    implementation 'com.onesignal:OneSignal:3.4.4'
+    implementation 'androidx.multidex:multidex:2.0.1'
+    implementation project(path: ':unity-ads')
+
+}
+apply plugin: 'com.google.gms.google-services'
