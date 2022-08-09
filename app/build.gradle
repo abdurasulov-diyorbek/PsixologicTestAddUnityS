@@ -58,6 +58,7 @@ dependencies {
     implementation 'com.onesignal:OneSignal:3.4.4'
     implementation 'androidx.multidex:multidex:2.0.1'
     implementation project(path: ':unity-ads')
+    implementation 'com.airbnb.android:lottie:3.4.4'
 
 }
 apply plugin: 'com.google.gms.google-services'

@@ -18,6 +18,7 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.airbnb.lottie.LottieAnimationView;
 import com.onesignal.OneSignal;
 import com.siz_kimsiz.inson_psixologiyasi.onesignal.MyNotificationOpenedHandler;
 import com.unity3d.ads.IUnityAdsLoadListener;
@@ -57,6 +58,9 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
     private   RecyclerView  recyclerView;
     Intent WSApp;
 
+    private boolean btnLike = false;
+    LottieAnimationView lottieInfo, lottieLike, lottieShare;
+
     SharedPreferences mSharedPreferences;
     String marketLink;
     public MainActivity(){
@@ -71,6 +75,12 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        lottieInfo = findViewById(R.id.lottieInfo);
+        lottieLike = findViewById(R.id.lottieLike);
+        lottieShare = findViewById(R.id.lottieShare);
+
+
         initAd();
         OneSignal.startInit(this)
                 .setNotificationOpenedHandler(new MyNotificationOpenedHandler(this.getApplication()))
@@ -232,12 +242,14 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
 //        });
 //
         ImageButton ourapps = (ImageButton) findViewById(R.id.otherapps);
-        ourapps.setOnClickListener(new Button.OnClickListener() {
+        lottieInfo.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
                 //         Uri uri = Uri.parse("https://play.google.com/store/apps/dev?id=5966232434122480987");
                 //         startActivity(new Intent(Intent.ACTION_VIEW, uri));
 
-                startActivity(new Intent(MainActivity.this, WsAppListActivity.class));
+                lottieInfo.setMinAndMaxProgress(0.0f,1.0f);
+                lottieInfo.playAnimation();
+                //startActivity(new Intent(MainActivity.this, WsAppListActivity.class));
 
             }
         });

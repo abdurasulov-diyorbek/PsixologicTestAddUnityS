@@ -11,7 +11,7 @@
     },
     {
       "category_name" : "Ish va karera",
-      "category_image": "drawable/psixo_ish"
+      "category_image": "drawable/ish"
     },
     {
       "category_name" : "Oila",
@@ -19,23 +19,23 @@
     },
     {
       "category_name" : "Farzandlar",
-      "category_image": "drawable/psixo_farzandlar"
+      "category_image": "drawable/bolalar"
     },
     {
       "category_name" : "Juftingiz",
-      "category_image": "drawable/psixo_justingiz"
+      "category_image": "drawable/love"
     },
     {
       "category_name" : "Go'zallik",
-      "category_image": "drawable/psixo_gozallik"
+      "category_image": "drawable/gozallik"
     },
     {
       "category_name" : "Muloqot",
-      "category_image": "drawable/psixo_muloqot"
+      "category_image": "drawable/talking"
     },
     {
       "category_name" : "Intellekt",
-      "category_image": "drawable/psixo_intelekt"
+      "category_image": "drawable/intelekt"
     }
 
   ]
