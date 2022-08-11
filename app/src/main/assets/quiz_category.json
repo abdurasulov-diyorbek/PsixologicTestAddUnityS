@@ -15,7 +15,8 @@
     },
     {
       "category_name" : "Oila",
-      "category_image": "drawable/oila"
+      "category_image": "drawable/oila",
+      "category_anim": "raw/oila"
     },
     {
       "category_name" : "Farzandlar",

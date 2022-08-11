@@ -1,5 +1,6 @@
 package com.siz_kimsiz.inson_psixologiyasi;
 
+import android.animation.Animator;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -19,6 +20,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.airbnb.lottie.LottieAnimationView;
+import com.airbnb.lottie.LottieDrawable;
 import com.onesignal.OneSignal;
 import com.siz_kimsiz.inson_psixologiyasi.onesignal.MyNotificationOpenedHandler;
 import com.unity3d.ads.IUnityAdsLoadListener;
@@ -140,10 +142,6 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
         });
 
 
-
-
-
-
         getcategoryfromJson();
 
 
@@ -241,34 +239,86 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
 //            }
 //        });
 //
-        ImageButton ourapps = (ImageButton) findViewById(R.id.otherapps);
+        mSharedPreferences = getApplicationContext().getSharedPreferences("MyPref", 0);
+        marketLink = "https://play.google.com/store/apps/details?id=";
+
+
+        lottieInfo.addAnimatorListener(new Animator.AnimatorListener() {
+            @Override
+            public void onAnimationStart(Animator animator) {
+            }
+
+            @Override
+            public void onAnimationEnd(Animator animator) {
+            }
+
+            @Override
+            public void onAnimationCancel(Animator animator) {
+
+            }
+
+            @Override
+            public void onAnimationRepeat(Animator animator) {
+                lottieInfo.getDuration();
+            }
+        });
         lottieInfo.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
                 //         Uri uri = Uri.parse("https://play.google.com/store/apps/dev?id=5966232434122480987");
                 //         startActivity(new Intent(Intent.ACTION_VIEW, uri));
-
-                lottieInfo.setMinAndMaxProgress(0.0f,1.0f);
-                lottieInfo.playAnimation();
-                //startActivity(new Intent(MainActivity.this, WsAppListActivity.class));
+                lottieInfo.pauseAnimation();
+                startActivity(new Intent(MainActivity.this, WsAppListActivity.class));
 
             }
         });
 
-        //Rate App
-        ImageButton rate = (ImageButton) findViewById(R.id.rateapps);
-        rate.setOnClickListener(new Button.OnClickListener() {
+        lottieLike.addAnimatorListener(new Animator.AnimatorListener() {
+            @Override
+            public void onAnimationStart(Animator animator) {
+            }
+
+            @Override
+            public void onAnimationEnd(Animator animator) {
+            }
+
+            @Override
+            public void onAnimationCancel(Animator animator) {
+
+            }
+
+            @Override
+            public void onAnimationRepeat(Animator animator) {
+                lottieInfo.getDuration();
+            }
+        });
+        lottieLike.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
                 Uri uri = Uri.parse("https://play.google.com/store/apps/details?id="+getPackageName());
                 startActivity(new Intent(Intent.ACTION_VIEW, uri));
+
             }
         });
 
-
-        mSharedPreferences = getApplicationContext().getSharedPreferences("MyPref", 0);
-        marketLink = "https://play.google.com/store/apps/details?id=";
-        ImageButton share = (ImageButton) findViewById(R.id.shareapps);
-        share.setOnClickListener(new View.OnClickListener() {
+        lottieShare.addAnimatorListener(new Animator.AnimatorListener() {
             @Override
+            public void onAnimationStart(Animator animator) {
+            }
+
+            @Override
+            public void onAnimationEnd(Animator animator) {
+            }
+
+            @Override
+            public void onAnimationCancel(Animator animator) {
+
+            }
+
+            @Override
+            public void onAnimationRepeat(Animator animator) {
+                lottieInfo.getDuration();
+            }
+        });
+        lottieShare.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
                 Intent sharingIntent = new Intent(android.content.Intent.ACTION_SEND);
                 sharingIntent.setType("text/plain");
@@ -282,8 +332,6 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
             }
         });
     }
-
-
 
 
     @Override
@@ -317,6 +365,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
         String str2=loadCategoryJson();
         categorylist=new ArrayList<String>();
         imagelist=new ArrayList<String>();
+        ArrayList<Object> animlist = new ArrayList<>();
         try {
             JSONObject object1 = new JSONObject(str2);
             JSONArray table = object1.getJSONArray("table");
@@ -325,6 +374,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
                 System.out.println(i);
                 categorylist.add(table.getJSONObject(i).get("category_name").toString());
                 imagelist.add(table.getJSONObject(i).get("category_image").toString());
+
 
             }
         } catch (JSONException e) {
